@@ -1,66 +1,16 @@
 ---
-title: "Martin Plöderl's Website"
+title: Martin Plöderl's website
+image: pics/ireland.webp
+about:
+  template: jolla
+  id: about-block
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/ploederl.bsky.social
+    - icon: envelope
+      text: Email
+      href: "mailto:ploederl@gmail.com"  
 ---
 
-# Publications
-
-## Papers in peer reviewed journals
-
-Amendola, S., Plöderl, M., & Hengartner, M. P. (2024). Suicide rates and prescriptions of antidepressants. Trends in the United States, 1999-2020,  by Sex and Race/Ethnicity. Crisis,\
-<https://doi.org/10.1027/0227-5910/a000941>\
-\
-Fartacek, C., Fartacek, R., Schiepek, G. K., Sturm, J., Aichhorn, W., Plöderl, M. (2024). Dynamic association between suicidal ambivalence and suicide risk among individuals with a history of suicide attempts. *Suicide and Life-Threatening Behavior. <https://doi.org/10.1111/sltb.13096>* (open access)\
-\
-Horowitz, M., Naudet, F., & Plöderl, M (2024). Correspondence to 'Esketamine Nasal Spray versus Quetiapine for Resistant Depression'. *New England Journal of Medicine 390:1,* <https://www.nejm.org/doi/10.1056/NEJMc2313230>*.*\
-\
-Kostic, M., Plöderl, M., Hengartner, M. P., Buzejic, Jelena (2024). Suicidality emerging from rapid venlafaxine discontinuation: a challenge - dechallenge - rechallenge case report. *Journal of Clinical Psychiatry*. <https://doi.org/10.4088/JCP.23cr14930>\
-\
-Pichler, E.-M., Fartacek, M., Miller-Döbeling, B., Walter, M., & Plöderl. M. (2024). Too early to add lithium to drinking water? No association between lithium and suicides in a pre-registered Swiss study. *Journal of Affective Disorders, 367,* 598-605. <https://doi.org/10.1016/j.jad.2024.08.239> (open access).\
-\
-Plöderl, M. (2024). “Reanalysis of a Tryptophan Meta-analysis.” *Meta-Psychology*. <https://doi.org/10.15626/MP.2023.3716>.\
-\
-Plöderl, M., Pichler, E.-M., Westerlund, J., Niederseer, D., & Fartacek, C. (2024). Daylight-Saving-Time was not associated with a Change in Suicide Rates in Austria, Switzerland, and Sweden. *European Journal of Public Health,* <https://doi.org/10.1093/eurpub/ckae061>.\
-\
-Teismann, T., & Plöderl, M. (2024). Suizid-Screenings: eine Kritik. *Suizidprophylaxe 51 (2),* 34-40*.*\
-\
-Plöderl, M. (2023). Psychopharmaka und Suizid. Wissenschaftliche Herausforderungen und Befundlage. *Kerbe 4,* 22-23.\
-\
-Fartacek, C., Kunrath, S., Aichhorn, W., & Plöderl, M. (2023). Therapeutic alliance and change in suicide ideation among psychiatric inpatients at risk for suicide. *Journal of Affective Disorders, 15,* 793-798*.* <https://doi.org/10.1016/j.jad.2022.12.028> (open access).\
-\
-Hengartner, M. P. & Plöderl, M. (2023). No clear evidence of reduced brain serotonin capacity in patients with depression. *Biological Psychiatry 93(12): e61.* <https://doi.org/10.1016/j.biopsych.2022.11.020>\
-\
-Moncrieff, J., Cooper, R. E., Stockmann, T., Amendola, S., Hengartner, M. P., Plöderl, M., & Horowitz, M. A. (2023). The serotonin hypothesis of depression: both long discarded and still supported? *Molecular Psychiatry*, 1-4. <https://doi.org/10.1038/s41380-023-02094-z>\
-\
-Pichler, E-M., Plöderl, M., Rainer, L., Gilhofer, T., Michel, J., van der Stouwe, J. G., Luesch, T. F., Schmied, C. M., Kawohl, W., Konschnabl, J., Niederseer, D. (2023). Alive and Kicking 
-
-– Suicide Rates and Major Soccer Events in Austria, Germany, and Switzerland. *European Journal of Public Health, 33,* 424–429*.* <https://doi.org/10.1093/eurpub/ckad042> (open access).\
-\
-Plöderl, M., Amendola, S., & Hengartner, M. P. (2023). Observational studies of antidepressant use and suicide risk are selectively published in psychiatric journals. *Journal of Clinical Epidemiology*. <https://doi.org/10.1016/j.jclinepi.2023.07.015> (open access).\
-\
-Plöderl, M., Fartacek, C., Kapitany, T., Schrittwieser, U., & Niederkrotenthaler, T. (2023). Effects of gatekeeper trainings from the Austrian national suicide prevention program. *Frontiers in Psychiatry*, *14*, 1118319. <https://doi.org/10.3389/fpsyt.2023.1118319>\
-\
-Plöderl, M. & Hengartner, M. P. (2023). Effect of the FDA black box suicidality warnings for antidepressants on suicide rates in the USA – signal or noise? *Crisis 44,* 128-134*.* <https://doi.org/10.1027/0227-5910/a000843>. [Download accepted version](https://digitalcollection.zhaw.ch/bitstream/11475/23838/2/2021_Ploederl-Hengartner_Effect-of-the-FDA-black-box-suicidality-warnings_Accepted-version.pdf).\
-\
-Plöderl, M., Horowitz, M. A., Hengartner, M. P. (2023). Re: “A Multicenter Double-Blind, Placebo-Controlled Trial of Escitalopram in Children and Adolescents with Generalized Anxiety Disorder” by Strawn et al.—Concerning Harm–Benefit Ratio in a Recent Trial About Escitalopram for Generalized Anxiety Disorder. *Journal of Child and Adolescent Psychopharmacology, 33(7),* 295-296. <https://doi.org/10.1089/cap.2023.0029> [See thread](https://twitter.com/PloederlM/status/1678268123386970112?s=20).\
-\
-Plöderl, M., & Naudet, F. (2023). Severe methodological problems in a recent review and analysis of the association between lithium concentration in potable water and suicide rates. *International Clinical Psychopharmacology, 38,* 406-407. <https://doi.org/10.1097/yic.0000000000000484>\
-\
-Plöderl, M., Westerlund, J., Hökby, S., Hadlaczky, G., & Hengartner, M.P. (2023). Increased suicide risk among younger women in winter during full moon in northern Europe. An artifact or a novel finding? *Molecular Psychiatry 28,* 901–907*.* <https://doi.org/10.1038/s41380-022-01823-0> (open access).\
-\
-Hengartner, M. P. & Plöderl, M. (2022). Estimates of the minimal important difference to evaluate the clinical significance of antidepressants in the acute treatment of moderate-to-severe depression. *BMJ idence-Based Medicine, 27*, 69-73 . <https://doi.org/10.1136/bmjebm-2020-111600>. [Download accepted manuscript](https://www.researchgate.net/publication/349391137_Estimates_of_the_minimal_important_difference_to_evaluate_the_clinical_significance_of_antidepressants_in_the_acute_treatment_of_moderate-to-severe_depression).\
-\
-Kirchner, S., Till, B., Plöderl, M., & Niederkrotenthaler, T. (2022). Effects of 'It get's better' suicide prevention videos on lesbian, gay, bisexual, transgender, or queer youth or youth of other sexual or gender minorities: A randomised controlled trial. *LGBT Health, 9(6),* 436-446. <https://doi.org/10.1089/lgbt.2021.0383> (open access).\
-\
-Moncrieff, J.,  Plöderl, M. , Nabi, Z.,  Stansfeld, J., & Wood, L. (2022). Evidence does not confirm that lithium prevents suicide: a reply to Bschor et al. *Epidemiology and Psychiatric Sciences.* <https://doi.org/10.1017/S2045796022000737> (open access).\
-\
-Mundle, G., Plöderl, M., & Mahler, L. (2022). Sexual minorities between equality and exclusion. Psychiatria Hungarica, 37(4), 308-318.\
-\
-Nabi, Z.,  Stansfeld, J., Plöderl, M. Wood, L., & Moncrieff, J. (2022). Effects of lithium on suicide and suicidal behaviour: a systematic review and meta-analysis of randomised trials. *Epidemiology and Psychiatric Sciences.* <https://doi.org/10.1017/S204579602200049X> (open access). \
- 
-
-Plöderl, M. & Hengartner, M. P. (2022). Learning about the course of suicidal behaviour but not about the effects of SSRIs. *Neuropsychopharmacoloy 47, 803.*  <https://doi.org/10.1038/s41386-021-01224-x>   [Read here](https://rdcu.be/cA2km) 
-
-\
-Plöderl, M., Hengartner, M.P., & Volkmann, C. (2022). Suizidpräventive Effekte von Ketamin und Esktetamin. Nervenheilkunde, 41, 240-245. <https://doi.org/10.1055/a-1761-3192>. [PDF](https://drive.google.com/file/d/11K80lY0WGK8wk6bDkSpiJlWFdPtnJufy/view?usp=sharing).\
-\
-Plöderl, M., Mestel, R., & Fartacek, C. (2022). Differences by sexual orientation in treatment outcome and satisfaction with treatment among inpatients of a German psychiatric clinic. PLoS One, 17(1): e0262928. <https://doi.org/10.1371/journal.pone.0262928> (open access).\
+I am a clinical psychologist and psychotherapist working in the field of crisis intervention and suicide prevention. I am mainly working in clinical practice but I am also doing some research and education.
