@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This site is in experimental status. It was created with Quarto using RStudio."
   },
   {
     "objectID": "index.html#papers-in-peer-reviewed-journals",
