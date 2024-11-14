@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "ploederlm.github.io"
+  title: "Martin Plöderl"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: publications/index.qmd
+        text: Publications
 
 format:
   html:

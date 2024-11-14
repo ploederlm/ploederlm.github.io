@@ -2,63 +2,534 @@
 title: "Publications"
 ---
 
-# Papers in peer reviewed journals
+# Peer Reviewed Papers
 
-Amendola, S., Plöderl, M., & Hengartner, M. P. (2024). Suicide rates and prescriptions of antidepressants. Trends in the United States, 1999-2020,  by Sex and Race/Ethnicity. Crisis,\
+Amendola, S., Plöderl, M., & Hengartner, M. P. (2024). Suicide
+rates and prescriptions of antidepressants. Trends in the United States, 1999-2020,  by Sex and Race/Ethnicity. Crisis, \
 <https://doi.org/10.1027/0227-5910/a000941>\
 \
-Fartacek, C., Fartacek, R., Schiepek, G. K., Sturm, J., Aichhorn, W., Plöderl, M. (2024). Dynamic association between suicidal ambivalence and suicide risk among individuals with a history of suicide attempts. *Suicide and Life-Threatening Behavior. <https://doi.org/10.1111/sltb.13096>* (open access)\
+Fartacek,
+C., Fartacek, R., Schiepek, G. K., Sturm, J., Aichhorn, W., Plöderl, M.
+(2024). Dynamic association between suicidal ambivalence and suicide
+risk among individuals with a history of suicide attempts. *Suicide and Life-Threatening Behavior. <https://doi.org/10.1111/sltb.13096>* (open access)\
 \
-Horowitz, M., Naudet, F., & Plöderl, M (2024). Correspondence to 'Esketamine Nasal Spray versus Quetiapine for Resistant Depression'. *New England Journal of Medicine 390:1,* <https://www.nejm.org/doi/10.1056/NEJMc2313230>*.*\
+Horowitz,
+M., Naudet, F., & Plöderl, M (2024). Correspondence to 'Esketamine
+Nasal Spray versus Quetiapine for Resistant Depression'. *New England Journal of Medicine 390:1,* <https://www.nejm.org/doi/10.1056/NEJMc2313230>*.* \
 \
-Kostic, M., Plöderl, M., Hengartner, M. P., Buzejic, Jelena (2024). Suicidality emerging from rapid venlafaxine discontinuation: a challenge - dechallenge - rechallenge case report. *Journal of Clinical Psychiatry*. <https://doi.org/10.4088/JCP.23cr14930>\
+Kostic,
+M., Plöderl, M., Hengartner, M. P., Buzejic, Jelena (2024). Suicidality
+emerging from rapid venlafaxine discontinuation: a challenge -
+dechallenge - rechallenge case report. *Journal of Clinical Psychiatry*. <https://doi.org/10.4088/JCP.23cr14930>\
 \
-Pichler, E.-M., Fartacek, M., Miller-Döbeling, B., Walter, M., & Plöderl. M. (2024). Too early to add lithium to drinking water? No association between lithium and suicides in a pre-registered Swiss study. *Journal of Affective Disorders, 367,* 598-605. <https://doi.org/10.1016/j.jad.2024.08.239> (open access).\
+Pichler,
+E.-M., Fartacek, M., Miller-Döbeling, B., Walter, M., & Plöderl. M.
+(2024). Too early to add lithium to drinking water? No association
+between lithium and suicides in a pre-registered Swiss study. *Journal of Affective Disorders, 367,* 598-605. <https://doi.org/10.1016/j.jad.2024.08.239> (open access). \
 \
 Plöderl, M. (2024). “Reanalysis of a Tryptophan Meta-analysis.” *Meta-Psychology*. <https://doi.org/10.15626/MP.2023.3716>.\
 \
-Plöderl, M., Pichler, E.-M., Westerlund, J., Niederseer, D., & Fartacek, C. (2024). Daylight-Saving-Time was not associated with a Change in Suicide Rates in Austria, Switzerland, and Sweden. *European Journal of Public Health,* <https://doi.org/10.1093/eurpub/ckae061>.\
+Plöderl,
+M., Pichler, E.-M., Westerlund, J., Niederseer, D., & Fartacek, C.
+(2024). Daylight-Saving-Time was not associated with a Change in Suicide
+Rates in Austria, Switzerland, and Sweden. *European Journal of Public Health,* <https://doi.org/10.1093/eurpub/ckae061>. \
 \
-Teismann, T., & Plöderl, M. (2024). Suizid-Screenings: eine Kritik. *Suizidprophylaxe 51 (2),* 34-40*.*\
+Teismann, T., & Plöderl, M. (2024). Suizid-Screenings: eine Kritik. *Suizidprophylaxe 51 (2),* 34-40*.* \
 \
 Plöderl, M. (2023). Psychopharmaka und Suizid. Wissenschaftliche Herausforderungen und Befundlage. *Kerbe 4,* 22-23.\
 \
-Fartacek, C., Kunrath, S., Aichhorn, W., & Plöderl, M. (2023). Therapeutic alliance and change in suicide ideation among psychiatric inpatients at risk for suicide. *Journal of Affective Disorders, 15,* 793-798*.* <https://doi.org/10.1016/j.jad.2022.12.028> (open access).\
+Fartacek,
+C., Kunrath, S., Aichhorn, W., & Plöderl, M. (2023). Therapeutic
+alliance and change in suicide ideation among psychiatric inpatients at
+risk for suicide. *Journal of Affective Disorders, 15,* 793-798*.* <https://doi.org/10.1016/j.jad.2022.12.028> (open access).\
 \
 Hengartner, M. P. & Plöderl, M. (2023). No clear evidence of reduced brain serotonin capacity in patients with depression. *Biological Psychiatry 93(12): e61.* <https://doi.org/10.1016/j.biopsych.2022.11.020>\
 \
-Moncrieff, J., Cooper, R. E., Stockmann, T., Amendola, S., Hengartner, M. P., Plöderl, M., & Horowitz, M. A. (2023). The serotonin hypothesis of depression: both long discarded and still supported? *Molecular Psychiatry*, 1-4. <https://doi.org/10.1038/s41380-023-02094-z>\
+Moncrieff,
+J., Cooper, R. E., Stockmann, T., Amendola, S., Hengartner, M. P.,
+Plöderl, M., & Horowitz, M. A. (2023). The serotonin hypothesis of
+depression: both long discarded and still supported? *Molecular Psychiatry*, 1-4. <https://doi.org/10.1038/s41380-023-02094-z>\
 \
-Pichler, E-M., Plöderl, M., Rainer, L., Gilhofer, T., Michel, J., van der Stouwe, J. G., Luesch, T. F., Schmied, C. M., Kawohl, W., Konschnabl, J., Niederseer, D. (2023). Alive and Kicking 
+Pichler,
+E-M., Plöderl, M., Rainer, L., Gilhofer, T., Michel, J., van der
+Stouwe, J. G., Luesch, T. F., Schmied, C. M., Kawohl, W., Konschnabl,
+J., Niederseer, D. (2023). Alive and Kicking 
 
-– Suicide Rates and Major Soccer Events in Austria, Germany, and Switzerland. *European Journal of Public Health, 33,* 424–429*.* <https://doi.org/10.1093/eurpub/ckad042> (open access).\
+– Suicide Rates and Major Soccer Events in Austria, Germany, and Switzerland. *European Journal of Public Health, 33,* 424–429*.* <https://doi.org/10.1093/eurpub/ckad042> (open access). \
 \
-Plöderl, M., Amendola, S., & Hengartner, M. P. (2023). Observational studies of antidepressant use and suicide risk are selectively published in psychiatric journals. *Journal of Clinical Epidemiology*. <https://doi.org/10.1016/j.jclinepi.2023.07.015> (open access).\
+Plöderl,
+M., Amendola, S., & Hengartner, M. P. (2023). Observational studies
+of antidepressant use and suicide risk are selectively published in
+psychiatric journals. *Journal of Clinical Epidemiology*. <https://doi.org/10.1016/j.jclinepi.2023.07.015> (open access).\
 \
-Plöderl, M., Fartacek, C., Kapitany, T., Schrittwieser, U., & Niederkrotenthaler, T. (2023). Effects of gatekeeper trainings from the Austrian national suicide prevention program. *Frontiers in Psychiatry*, *14*, 1118319. <https://doi.org/10.3389/fpsyt.2023.1118319>\
+Plöderl,
+M., Fartacek, C., Kapitany, T., Schrittwieser, U., &
+Niederkrotenthaler, T. (2023). Effects of gatekeeper trainings from the
+Austrian national suicide prevention program. *Frontiers in Psychiatry*, *14*, 1118319. <https://doi.org/10.3389/fpsyt.2023.1118319> \
 \
-Plöderl, M. & Hengartner, M. P. (2023). Effect of the FDA black box suicidality warnings for antidepressants on suicide rates in the USA – signal or noise? *Crisis 44,* 128-134*.* <https://doi.org/10.1027/0227-5910/a000843>. [Download accepted version](https://digitalcollection.zhaw.ch/bitstream/11475/23838/2/2021_Ploederl-Hengartner_Effect-of-the-FDA-black-box-suicidality-warnings_Accepted-version.pdf).\
+Plöderl,
+M. & Hengartner, M. P. (2023). Effect of the FDA black box
+suicidality warnings for antidepressants on suicide rates in the USA –
+signal or noise? *Crisis 44,* 128-134*.* <https://doi.org/10.1027/0227-5910/a000843>. [Download accepted version](https://digitalcollection.zhaw.ch/bitstream/11475/23838/2/2021_Ploederl-Hengartner_Effect-of-the-FDA-black-box-suicidality-warnings_Accepted-version.pdf). \
 \
-Plöderl, M., Horowitz, M. A., Hengartner, M. P. (2023). Re: “A Multicenter Double-Blind, Placebo-Controlled Trial of Escitalopram in Children and Adolescents with Generalized Anxiety Disorder” by Strawn et al.—Concerning Harm–Benefit Ratio in a Recent Trial About Escitalopram for Generalized Anxiety Disorder. *Journal of Child and Adolescent Psychopharmacology, 33(7),* 295-296. <https://doi.org/10.1089/cap.2023.0029> [See thread](https://twitter.com/PloederlM/status/1678268123386970112?s=20).\
+Plöderl,
+M., Horowitz, M. A., Hengartner, M. P. (2023). Re: “A Multicenter
+Double-Blind, Placebo-Controlled Trial of Escitalopram in Children and
+Adolescents with Generalized Anxiety Disorder” by Strawn et
+al.—Concerning Harm–Benefit Ratio in a Recent Trial About Escitalopram
+for Generalized Anxiety Disorder. *Journal of Child and Adolescent Psychopharmacology, 33(7),* 295-296. <https://doi.org/10.1089/cap.2023.0029> [See thread](https://twitter.com/PloederlM/status/1678268123386970112?s=20). \
 \
-Plöderl, M., & Naudet, F. (2023). Severe methodological problems in a recent review and analysis of the association between lithium concentration in potable water and suicide rates. *International Clinical Psychopharmacology, 38,* 406-407. <https://doi.org/10.1097/yic.0000000000000484>\
+Plöderl,
+M., & Naudet, F. (2023). Severe methodological problems in a recent
+review and analysis of the association between lithium concentration in
+potable water and suicide rates. *International Clinical Psychopharmacology, 38,* 406-407. <https://doi.org/10.1097/yic.0000000000000484>\
 \
-Plöderl, M., Westerlund, J., Hökby, S., Hadlaczky, G., & Hengartner, M.P. (2023). Increased suicide risk among younger women in winter during full moon in northern Europe. An artifact or a novel finding? *Molecular Psychiatry 28,* 901–907*.* <https://doi.org/10.1038/s41380-022-01823-0> (open access).\
+Plöderl,
+M., Westerlund, J., Hökby, S., Hadlaczky, G., & Hengartner, M.P.
+(2023). Increased suicide risk among younger women in winter during full
+moon in northern Europe. An artifact or a novel finding? *Molecular Psychiatry 28,* 901–907*.* <https://doi.org/10.1038/s41380-022-01823-0> (open access). \
 \
-Hengartner, M. P. & Plöderl, M. (2022). Estimates of the minimal important difference to evaluate the clinical significance of antidepressants in the acute treatment of moderate-to-severe depression. *BMJ idence-Based Medicine, 27*, 69-73 . <https://doi.org/10.1136/bmjebm-2020-111600>. [Download accepted manuscript](https://www.researchgate.net/publication/349391137_Estimates_of_the_minimal_important_difference_to_evaluate_the_clinical_significance_of_antidepressants_in_the_acute_treatment_of_moderate-to-severe_depression).\
+Hengartner,
+M. P. & Plöderl, M. (2022). Estimates of the minimal important
+difference to evaluate the clinical significance of antidepressants in
+the acute treatment of moderate-to-severe depression. *BMJ idence-Based Medicine, 27*, 69-73 . <https://doi.org/10.1136/bmjebm-2020-111600>. [Download accepted manuscript](https://www.researchgate.net/publication/349391137_Estimates_of_the_minimal_important_difference_to_evaluate_the_clinical_significance_of_antidepressants_in_the_acute_treatment_of_moderate-to-severe_depression).\
 \
-Kirchner, S., Till, B., Plöderl, M., & Niederkrotenthaler, T. (2022). Effects of 'It get's better' suicide prevention videos on lesbian, gay, bisexual, transgender, or queer youth or youth of other sexual or gender minorities: A randomised controlled trial. *LGBT Health, 9(6),* 436-446. <https://doi.org/10.1089/lgbt.2021.0383> (open access).\
+Kirchner,
+S., Till, B., Plöderl, M., & Niederkrotenthaler, T. (2022). Effects
+of 'It get's better' suicide prevention videos on lesbian, gay,
+bisexual, transgender, or queer youth or youth of other sexual or gender
+minorities: A randomised controlled trial. *LGBT Health, 9(6),* 436-446. <https://doi.org/10.1089/lgbt.2021.0383> (open access).\
 \
-Moncrieff, J.,  Plöderl, M. , Nabi, Z.,  Stansfeld, J., & Wood, L. (2022). Evidence does not confirm that lithium prevents suicide: a reply to Bschor et al. *Epidemiology and Psychiatric Sciences.* <https://doi.org/10.1017/S2045796022000737> (open access).\
+Moncrieff,
+J.,  Plöderl, M. , Nabi, Z.,  Stansfeld, J., & Wood, L. (2022).
+Evidence does not confirm that lithium prevents suicide: a reply to
+Bschor et al. *Epidemiology and Psychiatric Sciences.* <https://doi.org/10.1017/S2045796022000737> (open access). \
 \
-Mundle, G., Plöderl, M., & Mahler, L. (2022). Sexual minorities between equality and exclusion. Psychiatria Hungarica, 37(4), 308-318.\
+Mundle,
+G., Plöderl, M., & Mahler, L. (2022). Sexual minorities between
+equality and exclusion. Psychiatria Hungarica, 37(4), 308-318. \
 \
-Nabi, Z.,  Stansfeld, J., Plöderl, M. Wood, L., & Moncrieff, J. (2022). Effects of lithium on suicide and suicidal behaviour: a systematic review and meta-analysis of randomised trials. *Epidemiology and Psychiatric Sciences.* <https://doi.org/10.1017/S204579602200049X> (open access). \
+Nabi,
+Z.,  Stansfeld, J., Plöderl, M. Wood, L., & Moncrieff, J. (2022).
+Effects of lithium on suicide and suicidal behaviour: a systematic
+review and meta-analysis of randomised trials. *Epidemiology and Psychiatric Sciences.* <https://doi.org/10.1017/S204579602200049X> (open access). \
  
 
 Plöderl, M. & Hengartner, M. P. (2022). Learning about the course of suicidal behaviour but not about the effects of SSRIs. *Neuropsychopharmacoloy 47, 803.*  <https://doi.org/10.1038/s41386-021-01224-x>   [Read here](https://rdcu.be/cA2km) 
 
 \
-Plöderl, M., Hengartner, M.P., & Volkmann, C. (2022). Suizidpräventive Effekte von Ketamin und Esktetamin. Nervenheilkunde, 41, 240-245. <https://doi.org/10.1055/a-1761-3192>. [PDF](https://drive.google.com/file/d/11K80lY0WGK8wk6bDkSpiJlWFdPtnJufy/view?usp=sharing).\
+Plöderl,
+M., Hengartner, M.P., & Volkmann, C. (2022). Suizidpräventive
+Effekte von Ketamin und Esktetamin. Nervenheilkunde, 41, 240-245. <https://doi.org/10.1055/a-1761-3192>. [PDF](https://drive.google.com/file/d/11K80lY0WGK8wk6bDkSpiJlWFdPtnJufy/view?usp=sharing).\
 \
-Plöderl, M., Mestel, R., & Fartacek, C. (2022). Differences by sexual orientation in treatment outcome and satisfaction with treatment among inpatients of a German psychiatric clinic. PLoS One, 17(1): e0262928. <https://doi.org/10.1371/journal.pone.0262928> (open access).\
+Plöderl,
+M., Mestel, R., & Fartacek, C. (2022). Differences by sexual
+orientation in treatment outcome and satisfaction with treatment among
+inpatients of a German psychiatric clinic. PLoS One, 17(1): e0262928. <https://doi.org/10.1371/journal.pone.0262928> (open access).\
+\
+Amendola,
+S., Plöderl, M., & Hengartner, M. P. (2021). Did the introduction
+and increased prescribing of antidepressants lead to changes in
+long-term trends of suicide rates? *European Journal of Public Health, 31(2),* 291-297*.* <https://doi.org/10.1093/eurpub/ckaa204> (open access).\
+\
+Hengartner,
+M. P., & Plöderl, M. (2021). Prophylactic effects or withdrawal
+reactions? An analysis of time-to-event data from antidepressant relapse
+prevention trials submitted to the FDA. *Therapeutic Advances in Psychopharmacology 11,* <https://doi.org/10.1177/20451253211032051> (open access). \
+\
+Hengartner,
+M. & Plöderl, M. (2021). Suicidality and other severe psychiatric
+events with duloxetine: Re-analysis of safety data from a
+placebo-controlled trial for juvenile fibromyalgia *The International Journal of Risk & Safety in Medicine, 32(3),* 209-218*.* <https://doi.org/10.3233/JRS-200033>. [Download](https://digitalcollection.zhaw.ch/bitstream/11475/21157/3/2020_Hengartner-Ploederl_Duloxetine-Severe-Psychiatric-AE.pdf).\
+*\
+*Hengartner,
+M. P., Plöderl, M., Amendola, S., Kindler, S., Bschor, T., &
+Kaminski, J. A. (2021). Suicide risk with selective serotonin reuptake
+inhibitors and other new-generation serotonergic-noradrenergic
+antidepressants in adults: a meta-analysis of observational studies. J*ournal of Epidemiology and Community Mental Health, 75*, 523-530. <https://doi.org/10.1136/jech-2020-214611>  [Download preprint ](https://www.medrxiv.org/content/10.1101/2020.05.11.20098178v1)\
+\
+Kirchner, S., Till, B., Plöderl, M., & Niederkrotenthaler, T. (2021). *It Gets Better* Videos for Suicide Prevention in LGBTIQ+ Adolescents. *Crisis, 42 (2),* 92-99. https://doi.org[10.1027/0227-5910/a000691](https://doi.org/10.1027/0227-5910/a000691) *\
+*\
+Plöderl, M. (2021). Suicide over the course of the day, week, and life. *Psychiatria Danubina,* 33,  438-445. <https://doi.org/10.24869/psyd.2021.438> (open access). \
+\
+Plöderl, M., & Hengartner, M.P. (2021). Moon and suicide: a true effect or a false-positive finding? *Molecular Psychiatry, 26,* 4564-4565.  <https://doi.org/10.1038/s41380-020-00942-w>  [Download pre-print](https://osf.io/ucn3t)\
+\
+Plöderl, M. & Padberg, T. (2021). Antidepressiva. Wirksam und gut verträglich? *Psychotherapie im Dialog, 22 (3),* 44-48. doi: [10.1055/a-1215-1638](https://doi.org/10.1055/a-1215-1638). [PDF](https://drive.google.com/file/d/1buRdU9yGha8csxuCxPs6atNVY4HT2p0C/view?usp=sharing). [Langfassung](https://drive.google.com/file/d/1s85OHpY12aiRtsCxpjvnp2wNXN0zFoeJ/view?usp=sharing)*\
+\
+*Plöderl, M. & Volkmann, C. (2021). Esketamin. Ein berechtigter Hype in der Suizidprävention? *Suizidprophylaxe, 48,* 10-14. [Download](https://drive.google.com/file/d/1UrDaqWitwdEAbDYjlr_iuGFfBM_7seOr/view?usp=sharing)\
+\
+Hengartner,
+M. P., Plöderl, M., Braillon, A., Jakobsen, J. C., Gluud, C. (2020).
+Comment on PANDA: Small short-term benefits but unknown risks of
+potentially serious long-term harms (Letter to the editor). *Lancet Psychiatry 7(1)*. <https://doi.org/10.1016/S2215-0366(19)30381-5> (open access).
+
+\
+Hengartner,
+M. P., Jakobsen, J. C., Sorensen, A., & Plöderl, M. (2020).
+Efficacy of new-generation antidepressants assessed with the
+Montgomery-Asberg Depression Rating Scale, the gold standard clinician
+rating scale: A meta-analysis of randomised placebo-controlled trials. *PloS One 15(2): e0229381*. <https://doi.org/10.1371/journal.pone.0229381> (open access).\
+\
+Kirchner,
+S., Till, B., Plöderl, M., & Niederkrotenthaler, T. (2020).
+Perceptions of LGBQ youth and experts of suicide prevention video
+messages targeting LGBQ youth: Qualitative study. *BMC Public Health 20***,** 1845 <https://doi.org/10.1186/s12889-020-09853-5> (open access).\
+\
+Plöderl, M. (2020). Antidepressiva in der Suizidprävention. Ein Update. *Psychologie in Österreich, 1/2020, 34-39. [Vorschau](http://www.pioe.at/public/archiv/2020/1/PIOe_2020_1_Ploederl_Antidepressiva_in_der_Suizidpraevention_-_Ein_Update.pdf)\
+*
+
+Plöderl,
+M., Hengartner, M. P., Bschor, T., & Kaminski, J. (2020).
+Commentary to “Antidepressants and suicidality: A re-analysis of the
+re-analysis". *Journal of Affective Disorders 273,* 252-253. <https://doi.org/10.1016/j.jad.2020.04.025>. Download p[re-print](https://osf.io/2c5hv/).\
+\
+Plöderl,
+M., Kunrath, S., & Fartacek, C. (2020). God bless you? The
+association of religion and spirituality with reduction of suicide
+ideation and length of hospital stay among psychiatric patients at risk
+for suicide. *Suicide and Life-Threatening Behavior 50*, 95-110. <https://doi.org/10.1111/sltb.12582>. [Download accepted version](https://www.researchgate.net/publication/335163097_God_Bless_You_The_Association_of_Religion_and_Spirituality_with_Reduction_of_Suicide_Ideation_and_Length_of_Hospital_Stay_among_Psychiatric_Patients_at_Risk_for_Suicide#fullTextFileContent). \
+\
+Volkmann,
+C. M., Hengartner, M. P., & Plöderl, M. (in press, than not
+published). The hope for personalized antidepressant treatment may not
+be warranted. *JAMA Psychiatry*.\
+Note: this was a letter to
+the editor in response to a publication by Maslej et al. We have been
+informed that our letter was accepted for publication. However, the
+original paper of Maslej et al. was then retracted, with our letter
+being one of the reasons for retraction. See [here](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2767242). Our manuscript is available [here](https://www.researchgate.net/publication/342083346_Commentary_on_Maslej_et_al_No_evidence_of_individual_differences_in_response_to_antidepressants). \
+\
+Volkmann,
+C., Plöderl, M., Hengartner, M.P. (2020). Comment on Osler et al:
+Misinterpretation of pre-post differences invalidates the authors'
+conclusions. *Acta Psychiatrica Scandinavica, 140*, 589-59. doi: 10.1111/acps.13110. [Download](https://digitalcollection.zhaw.ch/bitstream/11475/18596/2/2019_Volkmann_Comment%20on%20Osler%20et%20al_ActaPsychScand_Postprint.pdf)\
+
+Plöderl,
+M., Hengartner, M. P. (2019). What are the chances for personalized
+treatment with antidepressants? Detection of patient by treatment
+interaction with variance ratio meta-analysis. *BMJ Open* 9 (12). [ https://doi.org/10.1136/bmjopen-2019-034816](https://doi.org/10.1136/bmjopen-2019-034816) (open access). \
+Manuscripts, data, R-code available via the OSF <https://osf.io/98kex/files/>\
+
+Feigelman,
+W., Plöderl, M., Cerel, J., Rosen, Z. (2019). Research note on whether
+sexual minority individuals are over-represented among completed
+suicides' casualties. *Crisis 41*, 229-232. <https://doi.org/10.1027/0227-5910/a000626>. [Download](https://www.researchgate.net/profile/William-Feigelman/publication/336864988_Research_Note_on_Whether_Sexual_Minority_Individuals_Are_Over-Represented_Among_Suicide's_Casualties/links/5dbc1c63299bf1a47b07debc/Research-Note-on-Whether-Sexual-Minority-Individuals-Are-Over-Represented-Among-Suicides-Casualties.pdf).\
+
+Hengartner,
+M.P., & Plöderl, M. (2019). Newer-generation antidepressants and
+suicide risk in randomized controlled trials: A re-analysis of the FDA
+database. *Psychotherapy and Psychosomatics, 88,* 247–248. [Open Access](https://doi.org/10.1159/000501215).\
+\
+Hengartner,
+M.P., & Plöderl, M. (2019). Reply to the Letter to the Editor:
+"Newer-Generation Antidepressants and Suicide Risk: Thoughts on
+Hengartner and Plöderl's Re-Analysis". *Psychotherapy and Psychosomatics, 88*, 371-372*.*[Open Access](https://doi.org/10.1159/000502485).\
+\
+Hengartner,
+M. P., & Plöderl, M. (2019). Starting two antidepressants to
+prevent suicide: A potentially dangerous recommendation? *Australian and New Zealand Journal of Psychiatry, 53*, 82-83. <https://doi.org/10.1177/0004867418816811>. [Download](https://www.researchgate.net/publication/329418528_Starting_two_antidepressants_to_prevent_suicide_A_potentially_dangerous_recommendation).\
+\
+Hoyer,
+J., Mestel, R., Boos, A., Bördlein, C., Oude-Aost, J., Plöderl, M.
+& Walz, D. (2019). Leserbrief zum Artikel von Christof T.
+Eschenröder, "Angstreduktion und Traumabewältigung durch Klopfen -
+Imaginative Konfrontation mit sensorischer Stimulierung und kognitiver
+Umstrukturierung als wirksame Behandlungsmethode" in VPP 3/2018, S.
+669-684. *Verhaltenstherapie und psychosoziale Praxis*, *51*(1), 47-4\
+\
+Plöderl, M. (2019). Antidepressiva in der Suizidprävention. Eine kritische Bestandsaufnahme. *Suizidprophylaxe, 46*, 53-64. [Download](http://www.suizidprophylaxe-online.de/pdf/04_heft177_2019.pdf).\
+ 
+
+Plöderl,
+M., & Hengartner, M. P. (2019). Guidelines for the pharmacological
+acute treatment of major depression: Conflicts with current evidence as
+demonstrated with the German S3 Guidelines. BMC Psychiatry 19(1):265.  <https://doi.org/10.1186/s12888-019-2230-4>
+(open access). For a project description, manuscript drafts, additional
+material, and rejections/reviews in German psychiatric journals, see [osf.io/4kh2a](http://osf.io/4kh2a)
+
+Plöderl, M., & Hengartner, M. P. (2019). Antidepressiva wirken! Oder doch nicht? *Skeptiker 2/2019,* 72-78*.* [Erhältlich hier](https://www.united-kiosk.de/fachzeitschriften/wissenschaft/skeptiker-epaper/ebinr_2107592/?jahr=2019&ausgabe=2&archivjahr=2019&partnerId=GP20854). [Antwort auf Gegenargumente](https://tinyurl.com/ybgnh3lx)
+
+Salway,
+T., Plöderl, M., Liu, J., Gustafson, P. (2019). Effects of multiple
+forms of information bias on estimated prevalence of suicide attempts by
+sexual orientation: An application of a Bayesian misclassification
+correction method to data from a systematic review. *American Journal of Epidemiology, 188*, 239-249. <https://doi.org/10.1093/aje/kwy200> (open access). \
+
+Volkmann,
+C., Plöderl, M., Hengartner, M.P. (2019). Comment on Osler et al:
+Misinterpretation of pre-post differences invalidate the authors’
+conclusions. Acta Psychiatrica Scandinavica <https://doi.org/10.1111/acps.13110> [Download](https://digitalcollection.zhaw.ch/bitstream/11475/18596/2/2019_Volkmann_Comment%20on%20Osler%20et%20al_ActaPsychScand_Postprint.pdf).\
+
+Hengartner,
+M. P., & Plöderl, M. (2018). Statistically significant
+antidepressant-placebo differences on subjective symptom-rating scales
+do not proof that the drugs work: Effect size and method bias matters! *Frontiers in Psychiatry.* <https://www.frontiersin.org/articles/10.3389/fpsyt.2018.00517/full> (open access).  \
+
+Hengartner, M. P., & Plöderl, M. (2018). False beliefs in adacemic psychiatry: The case of antidepressant drugs. *Ethical Human Psychology and Psychiatry, 20.* doi: [10.1891/1559-4343.20.1.6](https://www.researchgate.net/profile/Michael_Hengartner2/publication/327610246_False_Beliefs_in_Academic_Psychiatry_The_Case_of_Antidepressant_Drugs/links/5b9b6cfda6fdccd3cb5358ae/False-Beliefs-in-Academic-Psychiatry-The-Case-of-Antidepressant-Drugs.pdf) [Download](https://www.researchgate.net/profile/Michael-Hengartner/publication/327610246_False_Beliefs_in_Academic_Psychiatry_The_Case_of_Antidepressant_Drugs/links/5b9b6cfda6fdccd3cb5358ae/False-Beliefs-in-Academic-Psychiatry-The-Case-of-Antidepressant-Drugs.pdf)*\
+*
+
+Hengartner,
+M. P., & Plöderl, M. (rejected June 2018 from Lancet). Whether
+antidepressants are efficacious should be based on clinically relevant
+effect sizes, and not on a statistically significant difference from
+placebo: Comment on Cipriani et al. 2018. *An elaborated version is published in Frontiers in Psychiatry (see above).* [Download](https://sitebuilder-29464814.zohositescontent.com/files/hengartner-ploederl-2018-response-cipriani-rejected-lancet.pdf).\
+\
+Kralovec,
+K., Kunrath, S., Fartacek, C., Pichler, E.-M., & Plöderl, M.
+(2018). The gender-specific associations between religion/spirituality
+and suicide risk in a sample of Austrian psychiatric inpatients. *Suicide and Life-Threatening Behavior, 48*(3), 281-293. <http://dx.doi.org/10.1111/sltb.12349>. [Download](https://www.researchgate.net/publication/315777719_The_Gender-Specific_Associations_Between_ReligionSpirituality_and_Suicide_Risk_in_a_Sample_of_Austrian_Psychiatric_Inpatients).\
+
+Mahler, L., Mundle, G., & Plöderl, M. (2018). Wirkungen und Nebenwirkungen des Krankheitskonzepts "Homosexualität". *Fortschritte der Neurologie und Psychiatrie, 86,* 469-476*.* <https://doi.org/10.1055/a-0653-7177> [Download](https://sitebuilder-29464814.zohositescontent.com/files/mahler-ploederl-2018-nebenwirkung-homosexualit%C3%A4t-krankheitskonzept.pdf)\
+
+Niederseer,
+D., Bracher, I., Stadlmayr, A., Huber-Schönauer, U., Plöderl, M.,
+Obeid, S., ... & Patsch, W. (2018). Association between
+Cardiovascular Risk and Diabetes with Colorectal Neoplasia: A
+Site-Specific Analysis. *Journal of Clinical Medicine*, *7*(12), 484. [Open Access](https://www.mdpi.com/2077-0383/7/12/484/htm)
+
+Plöderl,
+M., & Hengartner, M. P. (2018). Antidepressant prescription rates
+and suicide attempt rates from 2004 to 2016 in a nationally
+representative sample of adolescents in the United States. *Epidemiology and Psychiatric Sciences, 1-3.*[https://doi.org/10.1017/S2045796018000136.](https://doi.org/10.1017/S2045796018000136)[Manuscript (accepted version)](https://sitebuilder-29464814.zohositescontent.com/files/_system_appendPDF_proof_hi-revision.pdf)\
+\
+Plöderl,
+M., & Fartacek, C. (2018). Known but unpredictable - an argument
+for complexity. Letter in response to Large et al. (2017) Known unknowns
+and unknown unknowns in suicide risk assessment: Evidence from
+meta-analyses of aleatory and epistemic uncertainty. *BJPsych Bulletin.*[ ](http://dx.doi.org/10.0.4.168/bjb.2018.12)<https://doi.org/10.1192/bjb.2018.12>. (open access). \
+\
+Fartacek,
+C., Nindl, T., Dinhobl, R., & Plöderl, M. (2017). Notfallpläne zur
+Rückfallprophylaxe suizidalen Verhaltens für die existenzanalytische
+Praxis. [*Existenzanalyse, 34 (2)*, 107-111](https://sitebuilder-29464814.zohositescontent.com/files/Fartacek-2017-safety-planning-existential-analysis.pdf). [Download](https://www.researchgate.net/profile/Martin-Ploederl/publication/321867124_Notfallplane_zur_Ruckfallprophylaxe_suizidalen_Verhaltens_fur_die_existenzanalytische_Praxis/links/5a365425aca27247eddf3454/Notfallplaene-zur-Rueckfallprophylaxe-suizidalen-Verhaltens-fuer-die-existenzanalytische-Praxis.pdf).\
+\
+Plöderl,
+M., Kunrath, S., Cramer, R., Wang, J., Hauer, L., & Fartacek, C.
+(2017). Sexual orientation differences in treatment expectation,
+alliance, and outcome among patients at risk for suicide in a public
+psychiatric hospital. *BMC Psychiatry*. <http://dx.doi.org/10.1186/s12888-017-1337-8>. (open access).\
+Three additional analyses to download: 1. [Supplemental Analyisis ](https://sitebuilder-29464814.zohositescontent.com/files/supplement-additional-results-statistical-analysis-in-paper.pdf)(as referenced in the pubication). 2. [Detailed Analysis](https://sitebuilder-29464814.zohositescontent.com/files/supplement-A.pdf) (regression results, Bayesian analysis). 3. [Results for the three dimensions of sexual orientation](https://sitebuilder-29464814.zohositescontent.com/files/supplement-B.pdf).\
+\
+Cramer,
+R. J., Burks, A.C., Plöderl, M., & Durgampudi, P. (2017). Minority
+stress model components and affective well-being in a sample of sexual
+orientation minority adults living with HIV/AIDS. AIDS Care. <https://doi.org/10.1080/09540121.2017.1327650>\
+\
+Niederseer,
+D., Stadlmayr, A., Huber-Schönauer, U., Plöderl, M., Schmied, C.,
+Lederer, D., ... & Datz, C. (2017). Cardiovascular risk and known
+coronary artery disease are associated with colorectal adenoma and
+advanced neoplasia. *Journal of the American College of Cardiology*, *69*(18), 2348-2350. <http://dx.doi.org/10.1016/j.jacc.2017.02.065>
+
+\
+Plöderl, M. (2016). LSBTI und psychische Gesundheit: Fakten und Erklärungsansätze. *Psychotherapie-Wissenschaft, 2*. [Download](https://www.psychotherapie-wissenschaft.info/index.php/psywis/article/view/257/508)
+
+\
+Plöderl, M. (2016). Out in der Schule? Bullying und Suizidrisiko bei LGBTI Jugendlichen. *Suizidprophylaxe*. 43, 7-13. [Download](http://www.suizidprophylaxe-online.de/pdf/05_heft164_2016.pdf)\
+\
+Fartacek,
+C., Schiepek, G., Kunrath, S., Fartacek, R., & Plöderl, M. (2016).
+Real-time monitoring of nonlinear suicidal dynamics: methodology and a
+demonstrative case report. *Frontiers in Psychology*. <http://dx.doi.org/10.3389/fpsyg.2016.00130>\
+\
+Plöderl, M., Tremblay, P. (2015). Mental health of sexual minorities. A systematic review. *International Review of Psychiatry, 27,* 367-385.<http://dx.doi.org/10.3109/09540261.2015.1083949>[Download accepted manuscript](https://www.researchgate.net/publication/283687456_Mental_health_of_sexual_minorities_A_systematic_review). Online supplemental material: [Tabulated Studies](https://sitebuilder-29464814.zohositescontent.com/files/Supplemental-Table-to-Ploderl-Tremblay-2015-doi-10.310909540261.2015.1083949.pdf)*\
+*\
+Wang,
+J., Plöderl, M., Häusermann, M., & Weiss, M. G. (2015).
+Understanding suicide attempts among gay men from their self-perceived
+causes. *Journal of Nervous and Mental Disease, 203*, 499-506. <http://dx.doi.org/10.1097/NMD.0000000000000319> [Download](https://www.researchgate.net/profile/Martin_Ploederl/publication/278330313_Understanding_Suicide_Attempts_Among_Gay_Men_From_Their_Self-perceived_Causes/links/55853cb908ae7bc2f4485636.pdf?ev=pub_int_doc_dl&origin=publication_list&inViewer=true&msrp=m38LS1YFz%2B%2FuX2vRG2eELNX75HXnMRd6DxaU8t6uv%2FAQaZN81rXC2%2BBKGBk04W%2FBMdIIftCFdLl1uRvwQcyd9m76Cov4nvhajlHZPIFeQ4M%3D_bLUrP8OjwVk2IgCNo%2Bc8vKgy6YbdsKhLas6C7zISQeJtHcAMM6giwE8qYJlXTkNFz1Lnf580863pZt284gHP6g%3D%3D)\
+\
+Plöderl,
+M., Fartacek, C., Kunrath, S., Pichler, E.M., Fartacek, R., Datz, C.,
+& Niederseer, D. (2015). Nothing like Christmas: Suicides during
+Christmas and other holidays in Austria. *European Journal of Public Health, 25,* 410-413. <http://dx.doi.org/10.1093/eurpub/cku169>. Open access. \
+\
+Fartacek,
+C., Kralovec, K., Pichler, E-M., Fartacek, R., Plöderl, M. (2014).
+Notfallpläne zur Rückfallprävention von suizidalem Verhalten. *Suizidprophylaxe*, *157*, 68-72. [Download](http://www.suizidprophylaxe-online.de/pdf/07_heft157_2014.pdf)\
+\
+Kralovec,
+K., Fartacek, C., Fartacek, R., Plöderl, M. (2014). Religion and
+suicide risk in lesbian, gay, and bisexual Austrians. *Journal of Religion and Health, 53,* 413-423*. [http](http://dx.doi.org/10.1007/s10943-012-9645-2)* [://dx.doi.org/10.1007/s10943-012-9645-2](http://dx.doi.org/10.1007/s10943-012-9645-2). [Download](http://drmartinplderl.zohosites.com/files/Kralovec-ploderl-2012-religion-suicide-risk=glbt-austrians=risk-and-protect-self-archiving.pdf)\
+\
+Niederseer,
+D., Mörtl, H., Liebensteiner, M. C., Egger, A.,Thaler, C. W., Plöderl,
+M., ... & Raschner, C. (2014). General fatigue and joint position
+sense in male elite handball players. *Deutsche Zeitschrift für Sportmedizin, 65*, 149-153. [Download](http://www.zeitschrift-sportmedizin.de/fileadmin/content/archiv2014/Heft_6/orig_niederseer.pdf)\
+\
+Plöderl, M. (2014). Bayesian advice for gaydar-based picking up: Commentary on Lyons, Lynch, Brewer, and Bruno (2013). *Archives of Sexual Behavior, 43*, 7-9. [http://dx.doi.org/10.1007/s10508-013-0178-x. ](http://dx.doi.org/10.1007/s10508-013-0178-x)[Download ](http://drmartinplderl.zohosites.com/files/ploederl-2013-Bayesian-advice-gaydar-comment-on-Lyons-2013.pdf)
+
+Plöderl,
+M., Sellmeier, M., Fartacek, C., Pichler, E-M., Fartacek, R., Kralovec,
+K. (2014). Explaining the suicide risk of sexual minority individuals
+by contrasting the minority stress model with suicide models. 
+
+*Archives of Sexual Behavior, 43,* 1559-1570. [http://dx.doi.org/10.1007/s10508-014-0268-4. ](http://dx.doi.org/10.1007/s10508-014-0268-4)[Download](http://drmartinplderl.zohosites.com/files/ploederl-2014-minority-stress-contrasted-with-suicide-models-explaining-LGB-suicide-self-archiving-version.pdf)\
+\
+Plöderl.
+M., Tremblay, P. (2014). Complementing remarks to Skerrett (2014)
+'Suicides among LGBT populations in Australia: An analysis of the
+Queensland suicide register'. *Asia-Pacific Psychiatry, 6,* 350-351*.* <http://dx.doi.org/10.1111/appy.12136>\
+\
+Neunhäuserer,
+D., Sturm, J., Baumgartlinger, M., Niederseer, D., Ledl-Kurkowski, E.,
+Steidle, E., Plöderl, M., Fartacek, C., Kralovec, K., Fartacek, R.,
+Niebauer, J. (2013). Hiking in suicidal patients: Neutral effects on
+markers of suicidality. *American Journal of Medicine, 126*, 927-930. <http://dx.doi.org/10.1016/j.amjmed.2013.05.008>. [Download](https://www.researchgate.net/profile/David_Niederseer/publication/255974425_Hiking_in_Suicidal_Patients_Neutral_Effects_on_Markers_of_Suicidality/links/0a85e537363b3632d0000000.pdf)\
+\
+Niederseer,
+D., Thaler, C. W., Egger, A., Niederseer, M. C.,Plöderl, M., &
+Niebauer, J. (2013). Watching soccer is not associated with an increase
+in cardiac events. *International Journal of Cardiology*. [doi:10.1016/j.ijcard.2013.10.066](http://www.sciencedirect.com/science/article/pii/S0167527313019104)\
+\
+Plöderl,
+M., Wagenmakers, E. J., Tremblay, P., Ramsay, R., Kralovec, K.,
+Fartacek, C., Fartacek, R. (2013). Suicide risk and sexual orientation. A
+critical review. *Archives of Sexual Behavior, 42,* 715-727. [http://dx.doi.org/10.1007/s10508-012-0056-y ](http://dx.doi.org/10.1007/s10508-012-0056-y). [Download.](http://www.ejwagenmakers.com/2013/PloderlEtAl2013.pdf)[ Download additional information.](http://drmartinplderl.zohosites.com/files/ploederl-2013-suicide-sexual-orientation-critical-review-additional-information%20%281%29.pdf)\
+\
+Schiepek,
+G., Tominschek, I., Heinzel, S., Aigner, M., Dold, M.,Unger, A., Lenz,
+G., Windischberger, C., Moser, E., Plöderl, M., Lutz, J., Meindl, T.,
+Zaudig, M., Pogarell, O., & Karch, S. (2013). Discontinuous patterns
+of brain activation in the psychotherapy process of obsessive
+compulsive disorder: Converging results from repeated fMRI and daily
+self-reports. *PloS one.* [OpenAccess](http://www.plosone.org/article/info%3Adoi/10.1371/journal.pone.0071863) \
+\
+Sturm,
+J., Plöderl, M., Fartacek, C., Kralovec, K., Neunhäuserer, D.,
+Niederseer, D., Hitzl, W., Niebauer, J., Schiepek, G., Fartacek, R.
+(2012). Physical exercise through mountain hiking in high-risk suicide
+patients. A randomized crossover trial. *Acta Psychiatrica Scandinavica, 126,* 467-475. [Download](http://www.dermatologie-lks.at/DMS/2-20120823-140706.pdf) \
+\
+Kralovec,
+K., Fartacek, R., Plöderl, M., Fartacek, C., Aichhorn, W. (2011). Low
+serum lithium associated with immoderate use of Coca-Cola Zero. *Journal of Clinical Psychopharmacology, 31,* 543-544. <http://dx.doi.org/10.1097/JCP.0b013e318222bb44> \
+\
+Plöderl,
+M., Kralovec, K., Yazdi, K., & Fartacek, R. (2011). A closer look
+on self-reported suicide attempts. False positives and false negatives. *Suicide and Life-Threatening Behavior, 41,* 1-5. [Download](http://drmartinplderl.zohosites.com/files/ploederl-2011-suicide-attempt-self-report-validity-false-true-positive-negative-self-archiving.pdf) \
+\
+Schiepek,
+G., Fartacek, C., Sturm, J., Kralovec, K., Fartacek, R., & Plöderl,
+M. (2011). Nonlinear dynamics. Theoretical perspectives and application
+to suicidology. *Suicide and Life-Threatening Behavior, 41*, 661-675 *.* [Download](https://www.researchgate.net/publication/51856657_Nonlinear_Dynamics_Theoretical_Perspectives_and_Application_to_Suicidology) \
+\
+Dinhobl,
+R., Aistleitner, U., Plöderl, M., & Fartacek, C.(2010).
+Dialektische Verhaltenstherapieelemente in der existenzanalytisch
+geprägten stationären Krisenintervention mit suizidalen
+Borderline-Patienten. *Suizidprophylaxe, 143,* 155-160 *.* [Download](http://www.suizidprophylaxe-online.de/pdf/07_heft143_2010.pdf)\
+\
+Fartacek,
+C., Plöderl, M., Kralovec, C., & Fartacek, R. (2010). Aggression
+und Impulsivität als Risikofaktoren für Suizidversuche bei Patienten mit
+Anpassungsstörung. *Suizidprophylaxe, 37*, 101-105. [Download](http://www.suizidprophylaxe-online.de/pdf/04_heft142_2010.pdf) \
+\
+Plöderl, M., Fartacek, H., & Fartacek, R. (2010). Lebenswert. Ein schulisches Suizidpräventionsprogramm. *Suizidprophylaxe, 143,* 148-154. [Download](http://www.suizidprophylaxe-online.de/pdf/06_heft143_2010-2.pdf) \
+\
+Plöderl,
+M., Faistauer, G., & Fartacek, R. (2010). The contribution of
+schools to the feeling of acceptance and the risk of suicide attempts
+among Austrian gay and bisexual males. *Journal of Homosexuality* , 57, 819-841. [Download](https://www.researchgate.net/publication/45390264_The_Contribution_of_School_to_the_Feeling_of_Acceptance_and_the_Risk_of_Suicide_Attempts_among_Austrian_Gay_and_Bisexual_Males) \
+\
+Plöderl, M., Kralovec, K., & Fartacek, R. (2010). The relation between sexual orientation and suicide attempts in Austria. *Archives of Sexual Behavior, 39* , 1403-1414*.* [Download](https://www.researchgate.net/publication/41405859_The_Relation_Between_Sexual_Orientation_and_Suicide_Attempts_in_Austria) \
+\
+Plöderl,
+M., Kralovec, K., Fartacek, C., & Fartacek, R. (2010).
+Aggressivität, Impulsivität und die Entscheidung zu einer Suizidmethode.
+*Suizidprophylaxe, 140*, 3-7. [Download](http://www.suizidprophylaxe-online.de/pdf/04_heft140_2010.pdf) \
+\
+Kralovec,
+K., Plöderl, M., Aistleitner, U., Fartacek, C., & Fartacek, R.
+(2009). Sind Nahtoderlebnisse nach Suizidversuchen bedeutsam für die
+weitere Suizidrisikoeinschätzung? *Neuropsychiatrie, 23*, 184-186. [Download](https://www.researchgate.net/publication/271229564_Sind_Nahtoderlebnisse_nach_Suizidversuchen_bedeutsam_fur_die_weitere_Suizidrisikoeinschatzung_-_Ein_Fallbericht) \
+\
+Kralovec, K., Plöderl, M., Yazdi, K., & Fartacek, R. (2009). Die Rolle von Religion und Religiosität in der Suizidologie. *Psychiatrie und Psychotherapie, 5*, 17-20. <http://dx.doi.org/10.1007/s11326-009-0039-3> \
+\
+Plöderl,
+M., Kralovec, K.,Fartacek, C., & Fartacek, R. (2009).
+Homosexualität als Risikofaktor für Depression und Suizidalität bei
+Männern. *Blickpunkt der Mann, 7*, 28-37. [Download](http://www.kup.at/kup/pdf/8386.pdf) \
+\
+Plöderl,
+M., & Fartacek, R. (2009). Childhood gender nonconformity and
+childhood harassment as predictors of suicidality among gay, lesbian,
+bisexual, and heterosexual Austrians. *Archives of Sexual Behavior, 38,* 400-410. [Download](https://www.researchgate.net/publication/5806611_Childhood_Gender_Nonconformity_and_Harassment_as_Predictors_of_Suicidality_among_Gay_Lesbian_Bisexual_and_Heterosexual_Austrians#fullTextFileContent) \
+\
+Plöderl,
+M. (2008). Buchbesprechungvon Joel Paris „Half in love with death.
+Managing the chronically suicidal patient. Mahwah, NJ: Lawrence Erlbaum
+(2007)". *Suizidprophylaxe, 133*, 101-102. [Download](http://www.suizidprophylaxe-online.de/pdf/14_heft133_2008.pdf) \
+\
+Plöderl,
+M., Yazdi, K., Kralovec, K., & Fartacek, R. (2007).
+Geschlechtsrollennonkonformität in der Kindheit als Suizidrisikofaktor
+am Beispiel von homo- und bisexuellen Personen. *Psychiatrie & Psychotherapie, 3*, 81-85. [*http://dx.doi.org/10.1007/s11326-007-0060-3*](http://dx.doi.org/10.1007/s11326-007-0060-3) *\
+\
+*Rothuber,
+H., Kralovec, K., Yazdi, K., Plöderl, M., & Mitterauer, B. (2007).
+Loss of self-understanding: A behavior-oriented model of depression*. Medical Science Monitor, 13* , 264-269. [*http://www.ncbi.nlm.nih.gov/pubmed/17534232*](http://www.ncbi.nlm.nih.gov/pubmed/17534232) *\
+\
+*Plöderl,
+M., Sauer, J., & Fartacek, R. (2006). Suizidalität und psychische
+Gesundheit von homo- und bisexuellen Männern und Frauen. Eine
+Metaanalyse internationaler Zufallsstichproben. *Verhaltenstherapie und Psychosoziale Praxis, 38,* 537-558. [Download](http://drmartinplderl.zohosites.com/files/ploederl-06-sexual-orientation-mental-health-meta-analysis.pdf) \
+\
+Plöderl (2004). Homosexualität und Krisenintervention. Wissenswertes für den klinischen Alltag. *Suizidprophylaxe*, *117* , 4-10. [Download](http://www.suizidprophylaxe-online.de/pdf/01_heft117_2004.pdf)\
+\
+
+# **Books and Book Chapters**
+
+Fartacek,
+C., Plöderl, M., Schiepek, G. (2020). Alternatives to Suicide: A
+Nonlinear Dynamic Perspective. In: Page, A. & Stritzke, W. (Eds.).
+Alternatives to suicide. Beyond risk and toward a life worth living  (p
+111-134). London: Academic Press. <https://doi.org/10.1016/B978-0-12-814297-4.00006-6>
+
+Plöderl, M. (2019) Suizidrisiko bei LSBTI\*. In: S. Timmermanns & M. Böhm (Hrsg.). *Sexuelle und geschlechtliche Vielfalt. Interdisziplinäre Perspektiven aus Wissenschaft und Praxis (S. 291-306).* Beltz Juventa. 
+
+Plöderl,
+M., & Winkler, R. (2019). Sexuelle Orientierung im
+Gesundheitswesen. Umgang mit einer unsichtbaren Diversity-Dimension. In:
+Steger, F. (Hrsg.). *Diversity in Healthcare* (S. 299-317). Freiburg: Alber Verlag. 
+
+Plöderl,
+M., Mahler, L., Nieder, T., & Mundle, G. (2018). LGBTI and Mental
+Health. In: D. Bhugra, K. S. Bhui, S. Wong, & S. Gilman (Eds.). *Oxford Textbook of Public Mental Health* (p. 225-234). Oxford: Oxford University Press. [Google Books](https://books.google.de/books?hl=de&lr=&id=iUVvDwAAQBAJ&oi=fnd&pg=PP1&dq=Oxford%2BTextbook%2Bof%2BPublic%2BMental%2BHealth%2B&ots=TV700ZlB-b&sig=aSf_Qf1x7Vz6Ufwmh4f_E4CNaaM#v%3Donepage%26q%3Dpl%C3%B6derl%26f%3Dfalse)
+
+Wolfersdorf,
+M., & Plöderl, M. (2015). Geschlechterunterschiede bei Suizid und
+Suizidalität. In: P. Kolip & K. Hurrelmann (Hrsg.). *Handbuch Geschlecht und Gesundheit. Männer und Frauen im Vergleich* (S. 265 - 274). Bern: Hogrefe. 
+
+Fartacek,
+C., Plöderl, M., & Schiepek, G. (2014). Idiographisches
+Systemmonitoring in der Suizidprävention. In I. Sammet, G. Damann &
+G. Schiepek (Hrsg.). *Der psychotherapeutische Prozess. Forschung für die Praxis* (S. 82-91). Stuttgart: Kohlhammer. \
+
+Plöderl,
+M. (2012). Männliche Homosexualität. In Harth, W., Brähler, E., &
+Schuppe, H. P. (Hrsg.). Praxishandbuch Männergesundheit.
+Interdisziplinärer Beratungs- und Behandlungsleitfaden (S.277-282).
+Berlin: MWV Medizinische Wissenschaftliche Verlagsgesellschaft. \
+
+Plöderl,
+M. (2009). Homosexuelle, bisexuelle und transidente Jugendliche.
+Grundwissen für das Psychosoziale Handlungsfeld. In: Akzente Salzburg. *Impulse. Handbuch für die Jugendarbeit, Band 1. Grundlagen, 3. Aufl.*, S. 88-97. Salzburg: Verlag Akzente Salzburg. [Download](https://sitebuilder-29464814.zohositescontent.com/files/29464814/ploederl-2009-akzente-handbuch-homosexualitaet-jugendarbeit.pdf)\
+
+Plöderl,
+M. & Faistauer, G. (2009). Homosexualität. Erfahrung aus
+Unterrichtsprojekten. In: Pithan, A., Arzt, S., Jakobs, M., &
+Knauth, T.: *Gender - Religion - Bildung: Beiträge zu einer Religionspädagogik der Vielfalt (S. 409-413).* Gütersloher Verlagshaus.
+
+Faistauer, G., & Plöderl, M. (2006). Out in der Schule - Schwule Männer über ihre Schulzeit. HOSI Salzburg. www.hosi.or.at. [Download ](https://sitebuilder-29464814.zohositescontent.com/files/29464814/faistauer-06-schulstudie.pdf)\
+
+Fartacek, R., Fartacek, H., & Plöderl, M. (2008). *lebenswert. Suizidprävention in Schulen. Information für Schulleitungen, ProjektorganisatorInnen, BeratungslehrerInnen*. Salzburg: Pädagogische Hochschule. \
+
+Plöderl,
+M., & Fartacek, R. (2007). „Anti-Stress-Training“ im Großarltal.
+Evaluation eines Projektes zur Gesundheitsförderung und
+Primärprävention. Deutsches Schulamt Bozen. 
+
+Faistauer, G., & Plöderl, M. (2006). Out in der Schule - Schwule Männer über ihre Schulzeit. HOSI Salzburg. www.hosi.or.at. [Download ](https://sitebuilder-29464814.zohositescontent.com/files/29464814/faistauer-06-schulstudie.pdf)\
+
+Plöderl, M. (2005). *Sexuelle Orientierung, psychische Gesundheit und Suizidalität*. Weinheim:Beltz-Verlag. [Google Books](http://books.google.at/books?id=2vITpcCDJHsC&lpg=PP1&dq=Pl%C3%B6derl&hl=de&pg=PP1#v%2525253Donepage%25252526q%2525253DPl%25252525C3%25252525B6derl%25252526f%2525253Dfalse)\
