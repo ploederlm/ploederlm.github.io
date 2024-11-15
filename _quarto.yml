@@ -12,7 +12,11 @@ website:
         text: Home
       - href: publications/index.qmd
         text: Publications
-
+      - href: CV/index.qmd
+        text: CV
+      - href: cycling/index.qmd
+        text: Cycling
+      
 format:
   html:
     theme: cosmo
