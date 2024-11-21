@@ -5,7 +5,7 @@ project:
 website:
   title: "Martin Plöderl"
   navbar:
-    background: '#FFA3DD'
+    background: '#4784cf'
     search: true
     left:
       - href: index.qmd
