@@ -16,12 +16,14 @@ website:
         text: CV
       - href: cycling/index.qmd
         text: Cycling
-      
+      - href: blogs/index.qmd
+        text: Blogs     
 format:
   html:
+    background-color: '#c6dbef'
     theme: cosmo
     css: styles.css
     toc: true
-
+ 
 editor: visual
 
