@@ -20,7 +20,7 @@ website:
         text: Blogs     
 format:
   html:
-    background-color: '#c6dbef'
+    backgroundcolor: '#EEF7FF'
     theme: cosmo
     css: styles.css
     toc: true
