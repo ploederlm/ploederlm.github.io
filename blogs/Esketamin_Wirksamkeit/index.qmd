@@ -126,18 +126,18 @@ Zur Interpretation der ASPIRE Studien sollten ähnliche methodische Limitationen
 
 Tabelle 1. Suizide und Suizidversuche in den ASPIRE Studien
 
-+----------------------------+----------------+---------------+
-| **Phase**                  | **Esketamin**  | **Placebo**   |
-+----------------------------+----------------+---------------+
-|                            | Suizidversuche | Suizide       |
-+----------------------------+----------------+---------------+
-| Doppelblind\               | 4              | 0             |
-| (4 Wochen)                 |                |               |
-+----------------------------+----------------+---------------+
-| Nachbeobachtung (2 Monate) | 7              | 1             |
-+----------------------------+----------------+---------------+
-| Gesamt                     | 11             | 1             |
-+----------------------------+----------------+---------------+
++----------------------------+----------------+-------------+
+| **Phase**                  | **Esketamin**  | **Placebo** |
++----------------------------+----------------+-------------+
+|                            | Suizidversuche | Suizide     |
++----------------------------+----------------+-------------+
+| Doppelblind\               | 4              | 0           |
+| (4 Wochen)                 |                |             |
++----------------------------+----------------+-------------+
+| Nachbeobachtung (2 Monate) | 7              | 1           |
++----------------------------+----------------+-------------+
+| Gesamt                     | 11             | 1           |
++----------------------------+----------------+-------------+
 
 \
 
@@ -158,7 +158,7 @@ Angesichts der eher enttäuschenden Wirksamkeitsergebnisse wundert es nicht, das
 
 Die negativen Urteile der genannten Fachgesellschaften blieben nicht unwidersprochen. Sowohl Janssen als auch prominente PsychiaterInnen, welche finanzielle Zuwendungen von Janssen erhielten und als Meinungsmacher (Key-Opinion-Leader) bezeichnet werden können, wurden aktiv [@nationalinstituteforhealthandcareexcellence2022; @nationalinstituteforhealthandcareexcellence2024]. 
 
-Vor allem spielt dabei die neuere von Janssen gesponserte ESCAPE Studie \[\@reif2023\] eine Rolle, mit der ein Zusatznutzen von Esketamin demonstriert werden soll. Die ESCAPE Studie wird aktuell zudem sehr für die Vermarktung von Esketamin verwendet. Daher sollte sie auch hier zusammengefasst werden. 
+Vor allem spielt dabei die neuere von Janssen gesponserte ESCAPE Studie [@reif2023] eine Rolle, mit der ein Zusatznutzen von Esketamin demonstriert werden soll. Die ESCAPE Studie wird aktuell zudem sehr für die Vermarktung von Esketamin verwendet. Daher sollte sie auch hier zusammengefasst werden. 
 
 In der ESCAPE Studie wurde die Wirksamkeit von Esketamin im Vergleich zu Quetiapin bei der Behandlung der Behandlungsresistenten Depression vergleichen. Die Studie war dabei Open Label, d.h. PatientInnen wussten, ob sie in der Esketamin- oder Quetiapin-Gruppe landeten. Es gab keine Placebo-Kontrollgruppe. Das vorab geplante primäre Behandlungsergebnis war die Remissionsrate nach 8 Wochen. Eine Remission wurde definiert als 10 oder weniger Punkte auf der MADRS. Das sekundäre Behandlungsergebnis war, ob remittierte PatientInnen bis zum Behandlungsende (32 Wochen) ohne Rückfall blieben (definiert als MADRS-Wert über 21 Punkte über zwei Messzeitpunkte). 
 
