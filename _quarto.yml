@@ -18,6 +18,8 @@ website:
         text: Cycling
       - href: blogs/index.qmd
         text: Blogs     
+      - href: recorded_talks/index.qmd
+        text: Talks 
 format:
   html:
     backgroundcolor: '#EEF7FF'
