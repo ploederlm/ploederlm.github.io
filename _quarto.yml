@@ -19,7 +19,7 @@ website:
       - href: blogs/index.qmd
         text: Blogs     
       - href: recorded_talks/index.qmd
-        text: Talks 
+        text: Recorded Talks 
 format:
   html:
     backgroundcolor: '#EEF7FF'
