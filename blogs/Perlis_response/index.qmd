@@ -1,0 +1,101 @@
+---
+title: Response to 'The time has come for over-the-counter antidepressants' 
+---
+
+Martin Plöderl, April 9, 2024, [ploederl\@posteo.de](mailto:ploederl@posteo.de) 
+
+\
+Roy Perlis, Harvard professor of psychiatry, recently suggested that SSRIs should be available over the counter, as they “have repeatedly been shown to be safe and effective for treating major depression and anxiety disorders” [1](https://www.zotero.org/google-docs/?R1AdkN). In the following, I will examine some of his arguments, as they are either in contradiction to the evidence or give a biased, uncritical summary on the evidence. 
+
+Are SSRI’s save and effective? The scientific discussion is ongoing [2–4](https://www.zotero.org/google-docs/?tlHSCj). The average efficacy (around 2 points on the Hamilton Depression Scale) in short-term clinical trials is below typical thresholds of clinical significance [5](https://www.zotero.org/google-docs/?17GehV). Recently, it has been argued that the average drug-placebo difference should not be used because of a non-normal distribution of the outcome. However, even taking this into account, the drug-placebo difference in „responder“ status is about 11% at best, and only 6% when considering a reduction of 16 Hamilton points from baseline as criterion for „responder“ [6,7](https://www.zotero.org/google-docs/?SLn2Ae). It has been estimated that, compared to natural course, only 15% more benefit from treatment with antidepressants, and given the costs and harms, this would be below the smallest worthwhile difference for about 2 of 3 patients [8](https://www.zotero.org/google-docs/?LN61oj). 
+
+Referring to the STAR\*D study, Perlis writes that “one in three people with depression [get well](https://ps.psychiatryonline.org/doi/10.1176/ps.2009.60.11.1439) with an initial antidepressant medication”. However, the STAR\*D study had no placebo control group, thus we do not know how many people would have got better without treatment, with placebo, or treatments other than medication. A critical look at long-term outcomes raises doubts on the long-term efficacy and relapse-preventive effect of antidepressants [9](https://www.zotero.org/google-docs/?fo2o5e). A review of longer-term studies without the problematic discontinuation designs reveals that psychotherapy alone or a combination of psychotherapy with antidepressants is superior to antidepressants [10](https://www.zotero.org/google-docs/?bReLGo). Of note, hardly any long-term study included a tapering phase and potential problems with stopping medication after the recommended period of treatment. This has to be taken into account when considering the finding that a combination of antidepressants with psychotherapy is equally effective to psychotherapy alone. 
+
+Furthermore, with the modest efficacy of antidepressants, which is likely overestimated due to methodological biases [3](https://www.zotero.org/google-docs/?PPcyzn), it does not take much harms so that the harm/benefit ratio is problematic for the majority of patients. Most common side effects for SSRIs are sexual dysfunctions, with up to 80% reporting these, compared to about 12% treated with placebo [11,12](https://www.zotero.org/google-docs/?L6Mm3X). Another common problem is withdrawal symptoms after trying to stop medication [13,14](https://www.zotero.org/google-docs/?nE07dL). To sum up, the notion that antidepressants are safe and effective is not supported by the evidence, at least not for the average patient. On the contrary, there is substantial evidence that, for most patients on antidepressants, the harm/benefit ratio is problematic. Interestingly, even Key Opinion Leader David Nutt and colleagues, who once defended antidepressants \[“one of the most effective of all drugs” [15](https://www.zotero.org/google-docs/?NZ5nkx)\] now conclude that “Even the best-performing antidepressant drugs show modest efficacy, non-negligible side effects, discontinuation problems and high relapse rates, highlighting the need for new, improved treatments” [16](https://www.zotero.org/google-docs/?LUtof0). 
+
+I agree that access to alternative treatments is often difficult. I also agree with Perlis that Psychotherapy is often not accessible, acceptable, or helpful, but psychotherapy is not the only alternative to treat depression. There are also other alternatives. For example, it has been suggested to consider basic interventions as the only intervention or at least as complementary intervention [17](https://www.zotero.org/google-docs/?IZmHOo). These include a therapeutic alliance, psycho-education, problem-solving, structuring the day, activation, sleep-hygiene, sleep-restriction, exercise, etc. 
+
+For antidepressants and suicide risk, Perlis says that “Among people age 25 and older, there is [clear evidence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2725270/) that taking antidepressants does not increase the risk for suicide — in fact, the risk of suicidal thoughts or acts is reduced in this group, particularly among those 65 and older.” 
+
+This summary of the evidence is misleading, as it only refers to an older review of short-term studies on adults submitted to the FDA [18](https://www.zotero.org/google-docs/?B4PAji). In our re-analysis of the FDA database, there was a statistically significant drug-placebo difference for suicide attempts, whereas for suicides, statistical significance depended on the statistical method [19,20](https://www.zotero.org/google-docs/?Hl3dkK). Our results may have overestimated or underestimated the problem. However, it can be said with quite some certainty that antidepressants do not reduce suicide risk. Furthermore, longer-term studies on adults also reported an increase for suicide attempts for those on antidepressants compared to placebo [21,22](https://www.zotero.org/google-docs/?cgvdnj). Numerically, the risk was also increased for suicides, but not statistically significant, thus the evidence is inconclusive here. Because of the rarity of suicidal behavior in clinical trials, observational studies should be considered, too. In our systematic review, which was an update of an older review [23](https://www.zotero.org/google-docs/?YjaQ62), there was a significant increase of suicide attempts for those on antidepressants versus those without antidepressant treatment, and for suicide, the evidence was inconclusive [24](https://www.zotero.org/google-docs/?3d0Fxr). Therefore, even with a pro-drug-biased view on the evidence the conclusion that “there is [clear evidence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2725270/) that taking antidepressants does not increase the risk for suicide” is not supported by the evidence. A statement such as “there is clear evidence that taking antidepressants does not decrease the risk for suicide for the average patient; rather, there is evidence that there is an increase of suicide risk” would be in accordance with the evidence. This is astonishing for a drug that is claimed to effectively reduce depression, one of the most important risk factor for suicide. 
+
+Then there is the statement “Some still question the biological basis of this disorder”. What does the efficacy of antidepressant drugs have to do with the biological foundation of depression? Or is there the implicit assumption that antidepressants “cure” depression, that is, correct a chemical imbalance? 
+
+Perlis then refers to a study which found associations of 100 genes with depression. However, genetic research into depression experienced major drawbacks, because candidate genes could not be replicated in large databases [25,26](https://www.zotero.org/google-docs/?Z9yt7D) and genetic information could only explain a small fraction of the variance. In contrast, psychosocial factors are much more strongly associated with depression.  
+
+Perlis also references a single neuroimaging study showing differences in the brains of people with depression. Thanks to the PubPeer browser plugin (highly recommended), I was lead to a study which could not replicate the findings (<https://www.biorxiv.org/content/10.1101/416321v1> - The study was published in the meantime). Perlis missed systematic reviews and larger studies on the issue. These studies reported that brains of depressed people are remarkably similar to the brains of healthy individuals. That is, the observed differences are tiny [27](https://www.zotero.org/google-docs/?8WKLJD), and using information from neuroimaging cannot be used to distinguish depressed from non-depressed people in any clinically meaningful way. In line with this, biomarkers of depression failed to predict depression prospectively [28](https://www.zotero.org/google-docs/?f9Ut0k). 
+
+To sum up, to think of antidepressants as safe and effective is a very “optimistic” view on the evidence. An unbiased, evidence-based view leads to the conclusion that most patients do not benefit from antidepressants but are exposed to the harms, thus leading to a problematic harm/benefit ratio. A minority of of patients may benefit from the drugs, compared to placebo or no treatment, but we still lack robust predictors of who these patients are. Over the counter availability of the drugs without proper information about harms and benefits, and without monitoring the context of a therapeutic alliance likely leads to more harm then benefit, as I tried to show here. 
+
+This is how Perlis responded to my first reaction on Twitter (somebody sent it to me – I could not see it because I was already blocked). 
+
+My reply to Perlis’ tweet
+
+\
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfn0sTuXL_TCMSp7-doZiQNIkgcUWk4MndQpvIkIzOMHOiwTkU3gyK8XmplKNE2OxNcBZ5O_vV2JiTbHF8XGVRhiBF6CJuX8GCAdSed6l2YN5-ptHNPtoGMWi1gTXE6S0RuphiN?key=0ffNvAuqtaEoXdYmYlPuhQJd)\
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXea2RsMYSLEmn8DJhdDw1LxRmBc7qMBd8xym7Fx0MY67O3g2cWPi9kqaejmAGja8u0c4gIylELoBIrWo5oBnoJCcFGt0GXLsQkUU9RBf8TRBOD3CJaH9fniPSVd96MTlw63SuD0?key=0ffNvAuqtaEoXdYmYlPuhQJd)\
+
+And my commented retweet
+
+#  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd9EjZsigzbjQR4YBapXZm-xUwo6YLJtDsbxLOleCJIoNeDikxKHWiKPZfzicwehKqg7wE2-aUNTcAHVs2QyZLuABEdY2OqwPeyd1giRyBvdchpacZM1nQrQ_k9_iw0UBm8nZhS?key=0ffNvAuqtaEoXdYmYlPuhQJd)  References
+
+[1.	Perlis R. The time has come for over-the-counter antidepressants. STAT. April 8, 2024. Accessed April 9, 2024. https://www.statnews.com/2024/04/08/time-is-right-for-over-the-counter-antidepressants/](https://www.zotero.org/google-docs/?PhBr7G)
+
+[2.	Hengartner MP. Evidence-Biased Antidepressant Prescription: Overmedicalisation, Flawed Research, and Conflicts of Interest. Springer; 2021.](https://www.zotero.org/google-docs/?PhBr7G)
+
+[3.	Hengartner MP, Plöderl M. Statistically significant antidepressant-placebo differences on subjective symptom-rating scales do not prove that antidepressants work: Effect size and method bias matter! Front Psychiatry. 2018;9. doi:10.3389/fpsyt.2018.00517](https://www.zotero.org/google-docs/?PhBr7G)
+
+[4.	Munkholm K, Paludan-Müller AS, Boesen K. Considering the methodological limitations in the evidence base of antidepressants for depression: a reanalysis of a network meta-analysis. BMJ Open. 2019;9(6):e024886. doi:10.1136/bmjopen-2018-024886](https://www.zotero.org/google-docs/?PhBr7G)
+
+[5.	Hengartner MP, Plöderl M. Estimates of the minimal important difference to evaluate the clinical significance of antidepressants in the acute treatment of moderate-to-severe depression. BMJ Evid Based Med. 2021;(2021). doi:10.1136/bmjebm-2020-111600](https://www.zotero.org/google-docs/?PhBr7G)
+
+[6.	Plöderl M. Some thoughts on the massive recent FDA patient level meta-analysis by Stone et al. Mastodon graz.social. December 6, 2022. https://graz.social/\@ploederl/109466156260340519](https://www.zotero.org/google-docs/?PhBr7G)
+
+[7.	Stone MB, Yaseen ZS, Miller BJ, Richardville K, Kalaria SN, Kirsch I. Response to acute monotherapy for major depressive disorder in randomized, placebo controlled trials submitted to the US Food and Drug Administration: individual participant data analysis. BMJ. 2022;378:e067606. doi:10.1136/bmj-2021-067606](https://www.zotero.org/google-docs/?PhBr7G)
+
+[8.	Sahker E, Furukawa TA, Luo Y, et al. Estimating the smallest worthwhile difference of antidepressants: a cross-sectional survey. BMJ Ment Health. 2024;27(1):e300919. doi:10.1136/bmjment-2023-300919](https://www.zotero.org/google-docs/?PhBr7G)
+
+[9.	Hengartner MP. How effective are antidepressants for depression over the long term? A critical review of relapse prevention trials and the issue of withdrawal confounding. Therapeutic Advances in Psychopharmacology. 2020;10:204512532092169. doi:10.1177/2045125320921694](https://www.zotero.org/google-docs/?PhBr7G)
+
+[10.	Furukawa TA, Shinohara K, Sahker E, et al. Initial treatment choices to achieve sustained response in major depression: a systematic review and network meta-analysis. World Psychiatry. 2021;20(3):387-396. doi:10.1002/wps.20906](https://www.zotero.org/google-docs/?PhBr7G)
+
+[11.	SALSEX Working Study Group, Montejo AL, Calama J, et al. A real-world study on antidepressant-associated sexual dysfunction in 2144 outpatients: The SALSEX I study. Arch Sex Behav. 2019;48(3):923-933. doi:10.1007/s10508-018-1365-6](https://www.zotero.org/google-docs/?PhBr7G)
+
+[12.	Serretti A, Chiesa A. Treatment-Emergent Sexual Dysfunction Related to Antidepressants: A Meta-Analysis. Journal of Clinical Psychopharmacology. 2009;29(3):259-266. doi:10.1097/JCP.0b013e3181a5233f](https://www.zotero.org/google-docs/?PhBr7G)
+
+[13.	Davies J, Read J. A systematic review into the incidence, severity and duration of antidepressant withdrawal effects: Are guidelines evidence-based? Addict Behav. Published online September 4, 2018. doi:10.1016/j.addbeh.2018.08.027](https://www.zotero.org/google-docs/?PhBr7G)
+
+[14.	Fava GA, Gatti A, Belaise C, Guidi J, Offidani E. Withdrawal symptoms after selective serotonin reuptake inhibitor discontinuation: A systematic review. Psychotherapy and Psychosomatics. 2015;84(2):72-81. doi:10.1159/000370338](https://www.zotero.org/google-docs/?PhBr7G)
+
+[15.	Nutt DJ, Goodwin GM, Bhugra D, Fazel S, Lawrie S. Attacks on antidepressants: signs of deep-seated stigma? The Lancet Psychiatry. 2014;1(2):102-104. doi:10.1016/S2215-0366(14)70232-9](https://www.zotero.org/google-docs/?PhBr7G)
+
+[16.	Daws RE, Timmermann C, Giribaldi B, et al. Increased global integration in the brain after psilocybin therapy for depression. Nat Med. 2022;28(4):844-851. doi:10.1038/s41591-022-01744-z](https://www.zotero.org/google-docs/?PhBr7G)
+
+[17.	Selalmazidou AM, Bschor T. Depression: Niedrigschwellige Kardinalmaßnahmen als Basis jeder Behandlung. Fortschr Neurol Psychiatr. 2023;91(12):523-534. doi:10.1055/a-2169-2120](https://www.zotero.org/google-docs/?PhBr7G)
+
+[18.	Stone MB, Laughren TP, Jones ML, et al. Risk of suicidality in clinical trials of antidepressants in adults: analysis of proprietary data submitted to US Food and Drug Administration. BMJ. 2009;339:1-10.](https://www.zotero.org/google-docs/?PhBr7G)
+
+[19.	Hengartner MP, Plöderl M. Newer-Generation Antidepressants and Suicide Risk in Randomized Controlled Trials: A Re-Analysis of the FDA Database. Psychother Psychosom. 2019;88(4):247-248. doi:10.1159/000501215](https://www.zotero.org/google-docs/?PhBr7G)
+
+[20.	Plöderl M, Hengartner MP, Bschor T, Kaminski JA. Commentary to “antidepressants and suicidality: A re-analysis of the re-analysis”. J Affect Disord. 2020;273:252-253. doi:10.1016/j.jad.2020.04.025](https://www.zotero.org/google-docs/?PhBr7G)
+
+[21.	Baldessarini RJ, Lau WK, Sim J, Sum MY, Sim K. Suicidal Risks in Reports of Long-Term Treatment Trials for Major Depressive Disorder. The international journal of neuropsychopharmacology. 2015;19(3):pyv107. doi:10.1093/ijnp/pyv107](https://www.zotero.org/google-docs/?PhBr7G)
+
+[22.	Braun C, Bschor T, Franklin J, Baethge C. Suicides and suicide attempts during long-term treatment with antidepressants: A meta-analysis of 29 placebo-controlled studies Including 6,934 patients with major depressive disorder. Psychother Psychosom. 2016;85(3):171-179. doi:10.1159/000442293](https://www.zotero.org/google-docs/?PhBr7G)
+
+[23.	Barbui C, Esposito E, Cipriani A. Selective serotonin reuptake inhibitors and risk of suicide: a systematic review of observational studies. Canadian Medical Association Journal. 2009;180(3):291-297. doi:10.1503/cmaj.081514](https://www.zotero.org/google-docs/?PhBr7G)
+
+[24.	Hengartner MP, Amendola S, Kaminski JA, Kindler S, Bschor T, Plöderl M. Suicide risk with selective serotonin reuptake inhibitors and other new-generation antidepressants in adults: a systematic review and meta-analysis of observational studies. J Epidemiol Community Health. 2021;75:523-530. doi:10.1136/jech-2020-214611](https://www.zotero.org/google-docs/?PhBr7G)
+
+[25.	Border R, Johnson EC, Evans LM, et al. No Support for Historical Candidate Gene or Candidate Gene-by-Interaction Hypotheses for Major Depression Across Multiple Large Samples. American Journal of Psychiatry. 2019;176(5):376-387. doi:10.1176/appi.ajp.2018.18070881](https://www.zotero.org/google-docs/?PhBr7G)
+
+[26.	Curtis D. Analysis of 50,000 exome-sequenced UK Biobank subjects fails to identify genes influencing probability of developing a mood disorder resulting in psychiatric referral. Journal of Affective Disorders. 2021;281:216-219. doi:10.1016/j.jad.2020.12.025](https://www.zotero.org/google-docs/?PhBr7G)
+
+[27.	Winter NR, Leenings R, Ernsting J, et al. Quantifying Deviations of Brain Structure and Function in Major Depressive Disorder Across Neuroimaging Modalities. JAMA Psychiatry. 2022;79(9):879. doi:10.1001/jamapsychiatry.2022.1780](https://www.zotero.org/google-docs/?PhBr7G)
+
+[28.	Kennis M, Gerritsen L, Van Dalen M, Williams A, Cuijpers P, Bockting C. Prospective biomarkers of major depressive disorder: a systematic review and meta-analysis. Mol Psychiatry. 2020;25(2):321-338. doi:10.1038/s41380-019-0585-z](https://www.zotero.org/google-docs/?PhBr7G)
+
+\
+\
+\
+\
