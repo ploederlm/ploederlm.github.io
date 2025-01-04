@@ -55,7 +55,7 @@ Mundle, G., Plöderl, M., & Mahler, L. (2022). Sexual minorities between equalit
 \
 Nabi, Z.,  Stansfeld, J., Plöderl, M. Wood, L., & Moncrieff, J. (2022). Effects of lithium on suicide and suicidal behaviour: a systematic review and meta-analysis of randomised trials. *Epidemiology and Psychiatric Sciences.* <https://doi.org/10.1017/S204579602200049X> (open access).  
 
-Plöderl, M. & Hengartner, M. P. (2022). Learning about the course of suicidal behaviour but not about the effects of SSRIs. *Neuropsychopharmacoloy 47, 803.*  <https://doi.org/10.1038/s41386-021-01224-x>   [Read here](https://rdcu.be/cA2km)
+Plöderl, M. & Hengartner, M. P. (2022). Learning about the course of suicidal behaviour but not about the effects of SSRIs. *Neuropsychopharmacoloy 47, 803.*  <https://doi.org/10.1038/s41386-021-01224-x> [Read here](https://rdcu.be/cA2km)
 
 \
 Plöderl, M., Hengartner, M.P., & Volkmann, C. (2022). Suizidpräventive Effekte von Ketamin und Esktetamin. Nervenheilkunde, 41, 240-245. <https://doi.org/10.1055/a-1761-3192>. [PDF](https://drive.google.com/file/d/11K80lY0WGK8wk6bDkSpiJlWFdPtnJufy/view?usp=sharing).\
@@ -82,7 +82,6 @@ Plöderl, M. & Padberg, T. (2021). Antidepressiva. Wirksam und gut verträglich?
 \
 Hengartner, M. P., Plöderl, M., Braillon, A., Jakobsen, J. C., Gluud, C. (2020). Comment on PANDA: Small short-term benefits but unknown risks of potentially serious long-term harms (Letter to the editor). *Lancet Psychiatry 7(1)*. <https://doi.org/10.1016/S2215-0366(19)30381-5> (open access).
 
-\
 Hengartner, M. P., Jakobsen, J. C., Sorensen, A., & Plöderl, M. (2020). Efficacy of new-generation antidepressants assessed with the Montgomery-Asberg Depression Rating Scale, the gold standard clinician rating scale: A meta-analysis of randomised placebo-controlled trials. *PloS One 15(2): e0229381*. <https://doi.org/10.1371/journal.pone.0229381> (open access).\
 \
 Kirchner, S., Till, B., Plöderl, M., & Niederkrotenthaler, T. (2020). Perceptions of LGBQ youth and experts of suicide prevention video messages targeting LGBQ youth: Qualitative study. *BMC Public Health 20***,** 1845 <https://doi.org/10.1186/s12889-020-09853-5> (open access).\
@@ -146,10 +145,8 @@ Cramer, R. J., Burks, A.C., Plöderl, M., & Durgampudi, P. (2017). Minority stre
 \
 Niederseer, D., Stadlmayr, A., Huber-Schönauer, U., Plöderl, M., Schmied, C., Lederer, D., ... & Datz, C. (2017). Cardiovascular risk and known coronary artery disease are associated with colorectal adenoma and advanced neoplasia. *Journal of the American College of Cardiology*, *69*(18), 2348-2350. <http://dx.doi.org/10.1016/j.jacc.2017.02.065>
 
-\
 Plöderl, M. (2016). LSBTI und psychische Gesundheit: Fakten und Erklärungsansätze. *Psychotherapie-Wissenschaft, 2*. [Download](https://www.psychotherapie-wissenschaft.info/index.php/psywis/article/view/257/508)
 
-\
 Plöderl, M. (2016). Out in der Schule? Bullying und Suizidrisiko bei LGBTI Jugendlichen. *Suizidprophylaxe*. 43, 7-13. [Download](http://www.suizidprophylaxe-online.de/pdf/05_heft164_2016.pdf)\
 \
 Fartacek, C., Schiepek, G., Kunrath, S., Fartacek, R., & Plöderl, M. (2016). Real-time monitoring of nonlinear suicidal dynamics: methodology and a demonstrative case report. *Frontiers in Psychology*. <http://dx.doi.org/10.3389/fpsyg.2016.00130>\
@@ -168,55 +165,53 @@ Niederseer, D., Mörtl, H., Liebensteiner, M. C., Egger, A.,Thaler, C. W., Plöd
 \
 Plöderl, M. (2014). Bayesian advice for gaydar-based picking up: Commentary on Lyons, Lynch, Brewer, and Bruno (2013). *Archives of Sexual Behavior, 43*, 7-9. [http://dx.doi.org/10.1007/s10508-013-0178-x.](http://dx.doi.org/10.1007/s10508-013-0178-x)[Download ](http://drmartinplderl.zohosites.com/files/ploederl-2013-Bayesian-advice-gaydar-comment-on-Lyons-2013.pdf)
 
-Plöderl, M., Sellmeier, M., Fartacek, C., Pichler, E-M., Fartacek, R., Kralovec, K. (2014). Explaining the suicide risk of sexual minority individuals by contrasting the minority stress model with suicide models. 
+Plöderl, M., Sellmeier, M., Fartacek, C., Pichler, E-M., Fartacek, R., Kralovec, K. (2014). Explaining the suicide risk of sexual minority individuals by contrasting the minority stress model with suicide models. *Archives of Sexual Behavior, 43,* 1559-1570. [http://dx.doi.org/10.1007/s10508-014-0268-4.Download](#0)\
+\
+Plöderl. M., Tremblay, P. (2014). Complementing remarks to Skerrett (2014) 'Suicides among LGBT populations in Australia: An analysis of the Queensland suicide register'. *Asia-Pacific Psychiatry, 6,* 350-351*.* [http://dx.doi.org/10.1111/appy.12136](#0){.uri}\
+\
+Neunhäuserer, D., Sturm, J., Baumgartlinger, M., Niederseer, D., Ledl-Kurkowski, E., Steidle, E., Plöderl, M., Fartacek, C., Kralovec, K., Fartacek, R., Niebauer, J. (2013). Hiking in suicidal patients: Neutral effects on markers of suicidality. *American Journal of Medicine, 126*, 927-930. [http://dx.doi.org/10.1016/j.amjmed.2013.05.008](#0){.uri}. [Download](#0)\
+\
+Niederseer, D., Thaler, C. W., Egger, A., Niederseer, M. C.,Plöderl, M., & Niebauer, J. (2013). Watching soccer is not associated with an increase in cardiac events. *International Journal of Cardiology*. [doi:10.1016/j.ijcard.2013.10.066](#0)\
+\
+Plöderl, M., Wagenmakers, E. J., Tremblay, P., Ramsay, R., Kralovec, K., Fartacek, C., Fartacek, R. (2013). Suicide risk and sexual orientation. A critical review. *Archives of Sexual Behavior, 42,* 715-727. [http://dx.doi.org/10.1007/s10508-012-0056-y](#0){.uri}. [Download.Download additional information.](#0)\
+\
+Schiepek, G., Tominschek, I., Heinzel, S., Aigner, M., Dold, M.,Unger, A., Lenz, G., Windischberger, C., Moser, E., Plöderl, M., Lutz, J., Meindl, T., Zaudig, M., Pogarell, O., & Karch, S. (2013). Discontinuous patterns of brain activation in the psychotherapy process of obsessive compulsive disorder: Converging results from repeated fMRI and daily self-reports. *PloS one.* [OpenAccess](#0)\
+\
+Sturm, J., Plöderl, M., Fartacek, C., Kralovec, K., Neunhäuserer, D., Niederseer, D., Hitzl, W., Niebauer, J., Schiepek, G., Fartacek, R. (2012). Physical exercise through mountain hiking in high-risk suicide patients. A randomized crossover trial. *Acta Psychiatrica Scandinavica, 126,* 467-475. [Download](#0)\
+\
+Kralovec, K., Fartacek, R., Plöderl, M., Fartacek, C., Aichhorn, W. (2011). Low serum lithium associated with immoderate use of Coca-Cola Zero. *Journal of Clinical Psychopharmacology, 31,* 543-544. [http://dx.doi.org/10.1097/JCP.0b013e318222bb44](#0){.uri}\
+\
+Plöderl, M., Kralovec, K., Yazdi, K., & Fartacek, R. (2011). A closer look on self-reported suicide attempts. False positives and false negatives. *Suicide and Life-Threatening Behavior, 41,* 1-5. [Download](#0)\
+\
+Schiepek, G., Fartacek, C., Sturm, J., Kralovec, K., Fartacek, R., & Plöderl, M. (2011). Nonlinear dynamics. Theoretical perspectives and application to suicidology. *Suicide and Life-Threatening Behavior, 41*, 661-675 *.* [Download](#0)\
+\
+Dinhobl, R., Aistleitner, U., Plöderl, M., & Fartacek, C.(2010). Dialektische Verhaltenstherapieelemente in der existenzanalytisch geprägten stationären Krisenintervention mit suizidalen Borderline-Patienten. *Suizidprophylaxe, 143,* 155-160 *.* [Download](#0)\
+\
+Fartacek, C., Plöderl, M., Kralovec, C., & Fartacek, R. (2010). Aggression und Impulsivität als Risikofaktoren für Suizidversuche bei Patienten mit Anpassungsstörung. *Suizidprophylaxe, 37*, 101-105. [Download](#0)\
+\
+Plöderl, M., Fartacek, H., & Fartacek, R. (2010). Lebenswert. Ein schulisches Suizidpräventionsprogramm. *Suizidprophylaxe, 143,* 148-154. [Download](#0)\
+\
+Plöderl, M., Faistauer, G., & Fartacek, R. (2010). The contribution of schools to the feeling of acceptance and the risk of suicide attempts among Austrian gay and bisexual males. *Journal of Homosexuality* , 57, 819-841. [Download](#0)\
+\
+Plöderl, M., Kralovec, K., & Fartacek, R. (2010). The relation between sexual orientation and suicide attempts in Austria. *Archives of Sexual Behavior, 39* , 1403-1414*.* [Download](#0)\
+\
+Plöderl, M., Kralovec, K., Fartacek, C., & Fartacek, R. (2010). Aggressivität, Impulsivität und die Entscheidung zu einer Suizidmethode. *Suizidprophylaxe, 140*, 3-7. [Download](#0)\
+\
+Kralovec, K., Plöderl, M., Aistleitner, U., Fartacek, C., & Fartacek, R. (2009). Sind Nahtoderlebnisse nach Suizidversuchen bedeutsam für die weitere Suizidrisikoeinschätzung? *Neuropsychiatrie, 23*, 184-186. [Download](#0)\
+\
+Kralovec, K., Plöderl, M., Yazdi, K., & Fartacek, R. (2009). Die Rolle von Religion und Religiosität in der Suizidologie. *Psychiatrie und Psychotherapie, 5*, 17-20. Open access. [http://dx.doi.org/10.1007/s11326-009-0039-3](#0){.uri}\
+\
+Plöderl, M., Kralovec, K.,Fartacek, C., & Fartacek, R. (2009). Homosexualität als Risikofaktor für Depression und Suizidalität bei Männern. *Blickpunkt der Mann, 7*, 28-37. [Download](#0)\
+\
+Plöderl, M., & Fartacek, R. (2009). Childhood gender nonconformity and childhood harassment as predictors of suicidality among gay, lesbian, bisexual, and heterosexual Austrians. *Archives of Sexual Behavior, 38,* 400-410. [Open access](#0). \
+\
+Plöderl, M. (2008). Buchbesprechungvon Joel Paris „Half in love with death. Managing the chronically suicidal patient. Mahwah, NJ: Lawrence Erlbaum (2007)". *Suizidprophylaxe, 133*, 101-102. [Download](#0)\
 
-*Archives of Sexual Behavior, 43,* 1559-1570. [http://dx.doi.org/10.1007/s10508-014-0268-4.](http://dx.doi.org/10.1007/s10508-014-0268-4)[Download](http://drmartinplderl.zohosites.com/files/ploederl-2014-minority-stress-contrasted-with-suicide-models-explaining-LGB-suicide-self-archiving-version.pdf)\
+Plöderl, M., Yazdi, K., Kralovec, K., & Fartacek, R. (2007). Geschlechtsrollennonkonformität in der Kindheit als Suizidrisikofaktor am Beispiel von homo- und bisexuellen Personen. *Psychiatrie & Psychotherapie, 3*, 81-85. Open access [*http://dx.doi.org/10.1007/s11326-007-0060-3*](http://dx.doi.org/10.1007/s11326-007-0060-3) *\
 \
-Plöderl. M., Tremblay, P. (2014). Complementing remarks to Skerrett (2014) 'Suicides among LGBT populations in Australia: An analysis of the Queensland suicide register'. *Asia-Pacific Psychiatry, 6,* 350-351*.* <http://dx.doi.org/10.1111/appy.12136>\
+*Rothuber, H., Kralovec, K., Yazdi, K., Plöderl, M., & Mitterauer, B. (2007). Loss of self-understanding: A behavior-oriented model of depression*. Medical Science Monitor, 13* , 264-269. [Download](https://medscimonit.com/abstract/index/idArt/484123). *\
 \
-Neunhäuserer, D., Sturm, J., Baumgartlinger, M., Niederseer, D., Ledl-Kurkowski, E., Steidle, E., Plöderl, M., Fartacek, C., Kralovec, K., Fartacek, R., Niebauer, J. (2013). Hiking in suicidal patients: Neutral effects on markers of suicidality. *American Journal of Medicine, 126*, 927-930. <http://dx.doi.org/10.1016/j.amjmed.2013.05.008>. [Download](https://www.researchgate.net/profile/David_Niederseer/publication/255974425_Hiking_in_Suicidal_Patients_Neutral_Effects_on_Markers_of_Suicidality/links/0a85e537363b3632d0000000.pdf)\
-\
-Niederseer, D., Thaler, C. W., Egger, A., Niederseer, M. C.,Plöderl, M., & Niebauer, J. (2013). Watching soccer is not associated with an increase in cardiac events. *International Journal of Cardiology*. [doi:10.1016/j.ijcard.2013.10.066](http://www.sciencedirect.com/science/article/pii/S0167527313019104)\
-\
-Plöderl, M., Wagenmakers, E. J., Tremblay, P., Ramsay, R., Kralovec, K., Fartacek, C., Fartacek, R. (2013). Suicide risk and sexual orientation. A critical review. *Archives of Sexual Behavior, 42,* 715-727. <http://dx.doi.org/10.1007/s10508-012-0056-y>. [Download.](http://www.ejwagenmakers.com/2013/PloderlEtAl2013.pdf)[Download additional information.](http://drmartinplderl.zohosites.com/files/ploederl-2013-suicide-sexual-orientation-critical-review-additional-information%20%281%29.pdf)\
-\
-Schiepek, G., Tominschek, I., Heinzel, S., Aigner, M., Dold, M.,Unger, A., Lenz, G., Windischberger, C., Moser, E., Plöderl, M., Lutz, J., Meindl, T., Zaudig, M., Pogarell, O., & Karch, S. (2013). Discontinuous patterns of brain activation in the psychotherapy process of obsessive compulsive disorder: Converging results from repeated fMRI and daily self-reports. *PloS one.* [OpenAccess](http://www.plosone.org/article/info%3Adoi/10.1371/journal.pone.0071863)\
-\
-Sturm, J., Plöderl, M., Fartacek, C., Kralovec, K., Neunhäuserer, D., Niederseer, D., Hitzl, W., Niebauer, J., Schiepek, G., Fartacek, R. (2012). Physical exercise through mountain hiking in high-risk suicide patients. A randomized crossover trial. *Acta Psychiatrica Scandinavica, 126,* 467-475. [Download](http://www.dermatologie-lks.at/DMS/2-20120823-140706.pdf)\
-\
-Kralovec, K., Fartacek, R., Plöderl, M., Fartacek, C., Aichhorn, W. (2011). Low serum lithium associated with immoderate use of Coca-Cola Zero. *Journal of Clinical Psychopharmacology, 31,* 543-544. <http://dx.doi.org/10.1097/JCP.0b013e318222bb44>\
-\
-Plöderl, M., Kralovec, K., Yazdi, K., & Fartacek, R. (2011). A closer look on self-reported suicide attempts. False positives and false negatives. *Suicide and Life-Threatening Behavior, 41,* 1-5. [Download](http://drmartinplderl.zohosites.com/files/ploederl-2011-suicide-attempt-self-report-validity-false-true-positive-negative-self-archiving.pdf)\
-\
-Schiepek, G., Fartacek, C., Sturm, J., Kralovec, K., Fartacek, R., & Plöderl, M. (2011). Nonlinear dynamics. Theoretical perspectives and application to suicidology. *Suicide and Life-Threatening Behavior, 41*, 661-675 *.* [Download](https://www.researchgate.net/publication/51856657_Nonlinear_Dynamics_Theoretical_Perspectives_and_Application_to_Suicidology)\
-\
-Dinhobl, R., Aistleitner, U., Plöderl, M., & Fartacek, C.(2010). Dialektische Verhaltenstherapieelemente in der existenzanalytisch geprägten stationären Krisenintervention mit suizidalen Borderline-Patienten. *Suizidprophylaxe, 143,* 155-160 *.* [Download](http://www.suizidprophylaxe-online.de/pdf/07_heft143_2010.pdf)\
-\
-Fartacek, C., Plöderl, M., Kralovec, C., & Fartacek, R. (2010). Aggression und Impulsivität als Risikofaktoren für Suizidversuche bei Patienten mit Anpassungsstörung. *Suizidprophylaxe, 37*, 101-105. [Download](http://www.suizidprophylaxe-online.de/pdf/04_heft142_2010.pdf)\
-\
-Plöderl, M., Fartacek, H., & Fartacek, R. (2010). Lebenswert. Ein schulisches Suizidpräventionsprogramm. *Suizidprophylaxe, 143,* 148-154. [Download](http://www.suizidprophylaxe-online.de/pdf/06_heft143_2010-2.pdf)\
-\
-Plöderl, M., Faistauer, G., & Fartacek, R. (2010). The contribution of schools to the feeling of acceptance and the risk of suicide attempts among Austrian gay and bisexual males. *Journal of Homosexuality* , 57, 819-841. [Download](https://www.researchgate.net/publication/45390264_The_Contribution_of_School_to_the_Feeling_of_Acceptance_and_the_Risk_of_Suicide_Attempts_among_Austrian_Gay_and_Bisexual_Males)\
-\
-Plöderl, M., Kralovec, K., & Fartacek, R. (2010). The relation between sexual orientation and suicide attempts in Austria. *Archives of Sexual Behavior, 39* , 1403-1414*.* [Download](https://www.researchgate.net/publication/41405859_The_Relation_Between_Sexual_Orientation_and_Suicide_Attempts_in_Austria)\
-\
-Plöderl, M., Kralovec, K., Fartacek, C., & Fartacek, R. (2010). Aggressivität, Impulsivität und die Entscheidung zu einer Suizidmethode. *Suizidprophylaxe, 140*, 3-7. [Download](http://www.suizidprophylaxe-online.de/pdf/04_heft140_2010.pdf)\
-\
-Kralovec, K., Plöderl, M., Aistleitner, U., Fartacek, C., & Fartacek, R. (2009). Sind Nahtoderlebnisse nach Suizidversuchen bedeutsam für die weitere Suizidrisikoeinschätzung? *Neuropsychiatrie, 23*, 184-186. [Download](https://www.researchgate.net/publication/271229564_Sind_Nahtoderlebnisse_nach_Suizidversuchen_bedeutsam_fur_die_weitere_Suizidrisikoeinschatzung_-_Ein_Fallbericht)\
-\
-Kralovec, K., Plöderl, M., Yazdi, K., & Fartacek, R. (2009). Die Rolle von Religion und Religiosität in der Suizidologie. *Psychiatrie und Psychotherapie, 5*, 17-20. <http://dx.doi.org/10.1007/s11326-009-0039-3>\
-\
-Plöderl, M., Kralovec, K.,Fartacek, C., & Fartacek, R. (2009). Homosexualität als Risikofaktor für Depression und Suizidalität bei Männern. *Blickpunkt der Mann, 7*, 28-37. [Download](http://www.kup.at/kup/pdf/8386.pdf)\
-\
-Plöderl, M., & Fartacek, R. (2009). Childhood gender nonconformity and childhood harassment as predictors of suicidality among gay, lesbian, bisexual, and heterosexual Austrians. *Archives of Sexual Behavior, 38,* 400-410. [Download](https://www.researchgate.net/publication/5806611_Childhood_Gender_Nonconformity_and_Harassment_as_Predictors_of_Suicidality_among_Gay_Lesbian_Bisexual_and_Heterosexual_Austrians#fullTextFileContent)\
-\
-Plöderl, M. (2008). Buchbesprechungvon Joel Paris „Half in love with death. Managing the chronically suicidal patient. Mahwah, NJ: Lawrence Erlbaum (2007)". *Suizidprophylaxe, 133*, 101-102. [Download](http://www.suizidprophylaxe-online.de/pdf/14_heft133_2008.pdf)\
-
-Plöderl, M., Yazdi, K., Kralovec, K., & Fartacek, R. (2007). Geschlechtsrollennonkonformität in der Kindheit als Suizidrisikofaktor am Beispiel von homo- und bisexuellen Personen. *Psychiatrie & Psychotherapie, 3*, 81-85. [*http://dx.doi.org/10.1007/s11326-007-0060-3*](http://dx.doi.org/10.1007/s11326-007-0060-3) *\
-\
-*Rothuber, H., Kralovec, K., Yazdi, K., Plöderl, M., & Mitterauer, B. (2007). Loss of self-understanding: A behavior-oriented model of depression*. Medical Science Monitor, 13* , 264-269. [*http://www.ncbi.nlm.nih.gov/pubmed/17534232*](http://www.ncbi.nlm.nih.gov/pubmed/17534232) *\
-\
-*Plöderl, M., Sauer, J., & Fartacek, R. (2006). Suizidalität und psychische Gesundheit von homo- und bisexuellen Männern und Frauen. Eine Metaanalyse internationaler Zufallsstichproben. *Verhaltenstherapie und Psychosoziale Praxis, 38,* 537-558. [Download](http://drmartinplderl.zohosites.com/files/ploederl-06-sexual-orientation-mental-health-meta-analysis.pdf)\
+*Plöderl, M., Sauer, J., & Fartacek, R. (2006). Suizidalität und psychische Gesundheit von homo- und bisexuellen Männern und Frauen. Eine Metaanalyse internationaler Zufallsstichproben. *Verhaltenstherapie und Psychosoziale Praxis, 38,* 537-558. [Download](/publications/mypapers/ploederl-06-sexual-orientation-mental-health-meta-analysis.pdf)\
 \
 Plöderl (2004). Homosexualität und Krisenintervention. Wissenswertes für den klinischen Alltag. *Suizidprophylaxe*, *117* , 4-10. [Download](http://www.suizidprophylaxe-online.de/pdf/01_heft117_2004.pdf)\
 \
@@ -237,16 +232,14 @@ Fartacek, C., Plöderl, M., & Schiepek, G. (2014). Idiographisches Systemmonitor
 
 Plöderl, M. (2012). Männliche Homosexualität. In Harth, W., Brähler, E., & Schuppe, H. P. (Hrsg.). Praxishandbuch Männergesundheit. Interdisziplinärer Beratungs- und Behandlungsleitfaden (S.277-282). Berlin: MWV Medizinische Wissenschaftliche Verlagsgesellschaft.
 
-Plöderl, M. (2009). Homosexuelle, bisexuelle und transidente Jugendliche. Grundwissen für das Psychosoziale Handlungsfeld. In: Akzente Salzburg. *Impulse. Handbuch für die Jugendarbeit, Band 1. Grundlagen, 3. Aufl.*, S. 88-97. Salzburg: Verlag Akzente Salzburg. [Download](https://sitebuilder-29464814.zohositescontent.com/files/29464814/ploederl-2009-akzente-handbuch-homosexualitaet-jugendarbeit.pdf)
+Plöderl, M. (2009). Homosexuelle, bisexuelle und transidente Jugendliche. Grundwissen für das Psychosoziale Handlungsfeld. In: Akzente Salzburg. *Impulse. Handbuch für die Jugendarbeit, Band 1. Grundlagen, 3. Aufl.*, S. 88-97. Salzburg: Verlag Akzente Salzburg.
 
 Plöderl, M. & Faistauer, G. (2009). Homosexualität. Erfahrung aus Unterrichtsprojekten. In: Pithan, A., Arzt, S., Jakobs, M., & Knauth, T.: *Gender - Religion - Bildung: Beiträge zu einer Religionspädagogik der Vielfalt (S. 409-413).* Gütersloher Verlagshaus.
-
-Faistauer, G., & Plöderl, M. (2006). Out in der Schule - Schwule Männer über ihre Schulzeit. HOSI Salzburg. www.hosi.or.at. [Download](https://sitebuilder-29464814.zohositescontent.com/files/29464814/faistauer-06-schulstudie.pdf)
 
 Fartacek, R., Fartacek, H., & Plöderl, M. (2008). *lebenswert. Suizidprävention in Schulen. Information für Schulleitungen, ProjektorganisatorInnen, BeratungslehrerInnen*. Salzburg: Pädagogische Hochschule. 
 
 Plöderl, M., & Fartacek, R. (2007). „Anti-Stress-Training“ im Großarltal. Evaluation eines Projektes zur Gesundheitsförderung und Primärprävention. Deutsches Schulamt Bozen. 
 
-Faistauer, G., & Plöderl, M. (2006). Out in der Schule - Schwule Männer über ihre Schulzeit. HOSI Salzburg. www.hosi.or.at. [Download](https://sitebuilder-29464814.zohositescontent.com/files/29464814/faistauer-06-schulstudie.pdf)
+Faistauer, G., & Plöderl, M. (2006). Out in der Schule - Schwule Männer über ihre Schulzeit. HOSI Salzburg. www.hosi.or.at. [Download](/publications/mypapers//media/ploederl/ssdata/data/artikel/faistauer-06-schulstudie.pdf).
 
-Plöderl, M. (2005). *Sexuelle Orientierung, psychische Gesundheit und Suizidalität*. Weinheim:Beltz-Verlag. [Google Books](http://books.google.at/books?id=2vITpcCDJHsC&lpg=PP1&dq=Pl%C3%B6derl&hl=de&pg=PP1#v%2525253Donepage%25252526q%2525253DPl%25252525C3%25252525B6derl%25252526f%2525253Dfalse)
+Plöderl, M. (2005). *Sexuelle Orientierung, psychische Gesundheit und Suizidalität*. Weinheim: Beltz-Verlag. [Download](/publications/mypapers/ploederl-2005-book.pdf)
