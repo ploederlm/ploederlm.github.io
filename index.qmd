@@ -16,4 +16,4 @@ bibliography: references.bib
 
 I am a clinical psychologist and psychotherapist working in the field of crisis intervention and suicide prevention. I am mainly working in clinical practice but I am also doing research and education.
 
-Besides work I am also a cyclist, love good coffee, nature, photography, and keeper of a small herd of chicken.
+Besides work I am also a cyclist, love good coffee, nature, photography, and I am keeper of a small herd of chicken.

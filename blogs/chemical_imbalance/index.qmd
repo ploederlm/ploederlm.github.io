@@ -6,7 +6,7 @@ bibliography: references.bib
 
 **November 23, 2024**
 
-There is an ongoing and partly very heated debate about the chemical imbalance theory (CI) of depression. Basically it is the theory that depression is the result of a deficit in serotonin or a dysfunction of the serotonergic system. The CI theory sometimes comes along with the assumption that antidepressants (SSRIs, SNRIs) work by correcting the CI. I refer to this as the "pure form" of the CI. Much has been written about the CI theory and I do not want to repeat it here but instead refer to the paper by Joanna Moncrieff and colleagues [@moncrieff2022] and the controversy around this paper, with lengthy letters to the editor and responses, including one where I was involved [@moncrieff2023]. The main purpose of this blog is to show how alive the CI theory of depression really is. Some say that academic psychiatrists never promoted the CI theory and thus it is a straw men, mainly used by antipsychiatrists. Some say the CI theory of depression was only used by the pharmaceutical companies and this was long ago. However, when I did a quick Google-search using "depression" in January 2021 ([search results as PDF](/blogs/chemical_imbalance/depression_Google_Suche_2021.pdf)), I was surprised that the CI was much alive, even in its pure form, and even in the top 10 search results. In spring 2024, a while after the famous umbrella review, I checked if the information was corrected, but there was not much change at all. I had all this posted on X but deleted the tweets, and therefore I want to document the search results here. I think this is important as evidence against the denial that I regularly come across in discussions ("no serious academic psychiatrist promoted the CI theory"). I leave it up to you to judge if the CI theory of depression is dead, a zombie, or still alive.
+There is an ongoing and partly very heated debate about the chemical imbalance theory (CI) of depression. Basically it is the theory that depression is the result of a deficit in serotonin or a dysfunction of the serotonergic system. The CI theory sometimes comes along with the assumption that antidepressants (SSRIs, SNRIs) work by correcting the CI. I refer to this as the "pure form" of the CI. Much has been written about the CI theory and I do not want to repeat it here but instead refer to the paper by Joanna Moncrieff and colleagues [@moncrieff2022] and the controversy around this paper, with lengthy letters to the editor and responses, including one where I was involved [@moncrieff2023]. The main purpose of this blog is to show how alive the CI theory of depression really is. Some say that academic psychiatrists never promoted the CI theory and thus it is a straw man, mainly used by antipsychiatrists. Some say the CI theory of depression was only used by the pharmaceutical companies and this was long ago. However, when I did a quick Google-search using "depression" in January 2021 ([search results as PDF](/blogs/chemical_imbalance/depression_Google_Suche_2021.pdf)), I was surprised that the CI was much alive, even in its pure form, and even in the top 10 search results. In spring 2024, a while after the famous umbrella review, I checked if the information was corrected, but there was not much change at all. I had all this posted on X but deleted all of my tweets because of the problematic leadership of X, and therefore I want to document the search results here. I think this is important as evidence against the denial that I regularly come across in discussions ("no serious academic psychiatrist promoted the CI theory"). I leave it up to you to judge if the CI theory of depression is dead, a zombie, or still alive.
 
 ## #1: Netdoctor
 
@@ -39,7 +39,7 @@ Thus, there is still the CI theory, but not in its pure form anymore.
 
 ## #2 Psychiater im Netz
 
-The second hit was written with the support of leading academic psychiatrists and the editors are professional organizations of psychiatrists and neurologists in Germany and Switzerland. The text is saved [here](/blogs/chemical_imbalance/Fachorganisationen-Berufsverband-neurologen-und-psychiater-im-netz.org.html). It\
+The second hit was written with the support of leading academic psychiatrists and the editors are professional organizations of psychiatrists and neurologists in Germany and Switzerland. The text is saved [here](/blogs/chemical_imbalance/Fachorganisationen-Berufsverband-neurologen-und-psychiater-im-netz.org.html). \
 <https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/depressionen/>
 
 We can see the CI theory in its pure form, and the text is unchanged when I checked it today (November 24, 2024).
@@ -64,7 +64,7 @@ However, it is also said that depression can be caused by a CI and that antidepr
 
 ## #4 Apotheken-Umschau
 
-The website of the Apotheken-Umschau included a video with a psychiatry professor. Here, a lot was said about lowered serotonin activity, a softened version of the CI theory (Min. 6). Unfortunately, I didn't save the video. It was also said that antidepressants are safe and effective and do not cause dependency or addiction. I agree with addiction, but there are dependency issues @massabki2020.
+The website of the Apotheken-Umschau included a video with a psychiatry professor. Here, a lot was said about lowered serotonin activity, a softened version of the CI theory (Min. 6). Unfortunately, I didn't save the video. It was also said that antidepressants are safe and effective and do not cause dependency or addiction. I agree with addiction, but there are dependency issues [@massabki2020].
 
 In November 2024, the CI theory is still present, but somehow weakened
 
@@ -78,7 +78,7 @@ Hit #6 again included the CI theory of depression. Stiftung Gesundheitswissen cl
 
 ![](images/clipboard-3984209123.png)
 
-When I accessed the page tody (November 23, 2024), I saw that the information was updated. The CI theory can now be found in its pure form, but it is said that the exact mechanism is not known.
+When I accessed the page tod y (November 23, 2024), I saw that the information was updated. The CI theory can now be found in its pure form, but it is said that the exact mechanism is not known.
 
 <https://www.stiftung-gesundheitswissen.de/wissen/depression/behandlung-mit-medikamenten>
 
@@ -100,13 +100,11 @@ As a side note, the text says that antidepressants are not causing dependency. W
 
 ## Older searches
 
-I also did a search before 2021. I don't know which exact search terms I used, but I selected results from academic psychiatry.
+Before 2021 I also searched the web and tweeted about the reusults. I don't know which exact search terms I used, but I selected results from academic psychiatry.
 
 ### Max Planck Institute für Psychiatrie
 
-Retrieved January 2020 from <https://www.psych.mpg.de/840900/depression>
-
-The CI theory of depression can be read in its pure form:
+Retrieved January 2020 from <https://www.psych.mpg.de/840900/depression>. The CI theory of depression can be read in its pure form:
 
 *"Bei der Depression ist das biochemische Gleichgewicht der Signalübertragung gestört. Die Therapie zielt darauf ab, durch Medikamente diese Stoffwechselstörung in den Nervenzellen zu korrigieren."*
 
@@ -122,9 +120,8 @@ This was retrieved in January 2020 and I saved it [here](/blogs/chemical_imbalan
 
 Also from January 2020, the information in the text (saved [here](blogs/chemical_imbalance/Goettingen_Lichttherapie.html)) points unambiguously to the CI theory:
 
-*„Wie bei jeder Depression weisen Betroffene einen Mangel des Gehirnbotenstoffs Serotonin auf“*
-
-<http://www.psychiatrie.med.uni-goettingen.de/de/content/patienten/237.html>
+*„Wie bei jeder Depression weisen Betroffene einen Mangel des Gehirnbotenstoffs Serotonin auf“ \
+*<http://www.psychiatrie.med.uni-goettingen.de/de/content/patienten/237.html>
 
 Now, in November 2024, the information is still there, even in it's pure form.
 
