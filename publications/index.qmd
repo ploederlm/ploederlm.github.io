@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
+# Preprints
+
+Plöderl, M. (2025, February 27). Concerning harm/benefit ratio of escitalopram for pediatric generalized anxiety disorder. <https://doi.org/10.31219/osf.io/tv823_v1>
+
 # Peer Reviewed Papers
 
 Amendola, S., Plöderl, M., & Hengartner, M. P. (2024). Suicide rates and prescriptions of antidepressants. Trends in the United States, 1999-2020,  by Sex and Race/Ethnicity. Crisis,\
