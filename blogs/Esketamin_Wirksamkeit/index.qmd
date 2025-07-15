@@ -127,7 +127,7 @@ Zur Interpretation der ASPIRE Studien sollten ähnliche methodische Limitationen
 Tabelle 1. Suizide und Suizidversuche in den ASPIRE Studien
 
 +----------------------------+----------------+---------------+----------------+---------------+
-| **Phase**                  | **Esketamin**  |               |                |               |
+| **Phase**                  | **Esketamin**  |               | **Placebo**    |               |
 +----------------------------+----------------+---------------+----------------+---------------+
 |                            | Suizidversuche | Suizide       | Suizidversuche | Suizide       |
 +----------------------------+----------------+---------------+----------------+---------------+
