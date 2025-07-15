@@ -6,7 +6,7 @@ bibliography: references.bib
 
 **Priv.-Doz. Dr. Martin Plöderl**
 
-Stand 10. Dezember 2024
+Stand 10. Dezember 2024, Update 15. Juli 2025
 
 Esketamin ist ein von der Firma Janssen patentiertes Antinomer von Ketamin und wurde 2019 für die Behandlung der sogenannten “Behandlungsresistenten Depression” von der US-Arzneimittelbehörde FDA (Food and Drug Administration) zugelassen. Die FDA erlaubte Janssen ein Schnellzulassungsverfahren und lockerte sogar die Kriterien für die Zulassung. Im Jahr 2020 ließ die FDA Esketamin auch für die Behandlung von “depression with suicide ideation or behavior”, was von der European Medical Agency in einer deutschen Übersetzung wie folgt zu lesen ist: “als akute Kurzzeitbehandlung, zur schnellen Reduktion depressiver Symptome, die nach ärztlichem Ermessen einem psychiatrischen Notfall entsprechen”. Die Zulassung durch die EMA für beide Indikationen erfolgte kurz nach der Zulassung durch die FDA.\
 \
