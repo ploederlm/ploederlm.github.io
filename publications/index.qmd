@@ -8,9 +8,11 @@ Plöderl, M. (2025, February 27). Concerning harm/benefit ratio of escitalopram 
 
 # Peer Reviewed Papers
 
-Hengartner, M. P., Pldöerl, M., Read, J. (in press). Short-term trials underestimate antidepressant withdrawal effects. JAMA Psychiatry.
+Cristea, I., Plöderl, M., & Naudet, F. (in press). Letter in reply to Janik A, Qiu X, Lane R, et al. Esketamine Monotherapy in Adults With Treatment-Resistant Depression: A Randomized Clinical Trial. *JAMA Psychiatry.* 2025
 
-Moncrieff, J., Hobday, H., Sorensen, A., Read, J., Plöderl, M., Hengartner, M. P., Barkholt Kamp, C., Jakobsen, J. C., Juul, S., Davies, J., & Horowitz, M. (in press). Evidence on antidepressant withdrawal: a critique and re-analysis of a recent systematic review. *Psychological Medicine*.
+Hengartner, M. P., Plöderl, M., Read, J. (in press). Short-term trials underestimate antidepressant withdrawal effects. *JAMA Psychiatry*.
+
+Moncrieff, J., Hobday, H., Sorensen, A., Read, J., Plöderl, M., Hengartner, M. P., Barkholt Kamp, C., Jakobsen, J. C., Juul, S., Davies, J., & Horowitz, M. (2025). Evidence on antidepressant withdrawal: a critique and re-analysis of a recent systematic review. *Psychological Medicine, 55*, e191, 1–17. <https://doi.org/10.1017/S0033291725100652>
 
 Moncrieff, J., Stansfield, J., Wood, L., & Plöderl, M. (2025). Uncertainty about lithium and suicide: a response to Nassir Ghaemi. *Journal of Psychopharmacology*. <https://doi.org/10.1177/02698811251346706>
 
