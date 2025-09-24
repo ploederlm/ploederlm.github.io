@@ -6,8 +6,6 @@ title: "Publications"
 
 Lyus, R., Naudet, F., van Valkenhoef, G., & Plöderl, M. (2025, September 10). A Re-Appraisal of three network meta-analyses to explain the discrepancy in findings for the efficacy of fluoxetine for the treatment of depression in children and adolescents. <https://doi.org/10.1101/2025.09.07.25334757>
 
-Plöderl, M., Lyus, R., Horowitz, M., Moncrieff, J. (2025, August 29). The loss of efficacy of fluoxetine in pediatric depression: explanations, lack of acknowledgment, and implications for other treatments. <https://doi.org/10.31234/osf.io/wk4et_v1>
-
 Plöderl, M., Cooper, R., Walker, T., Shah, V., Horowitz, M., Volkmann, C., Moncrieff, J. (2025, August 21). Effects of ketamine and esketamine on death, suicidal behaviour, and suicidal ideation in psychiatric disorders: A systematic review and meta-analysis. <http://medrxiv.org/lookup/doi/10.1101/2025.08.19.25333796>
 
 Plöderl, M. (2025, February 27). Concerning harm/benefit ratio of escitalopram for pediatric generalized anxiety disorder. <https://doi.org/10.31219/osf.io/tv823_v1>
@@ -18,6 +16,8 @@ Cristea, I., Plöderl, M., & Naudet, F. (in press). Letter in reply to Janik A, 
 
 Hengartner, M. P., Plöderl, M., Read, J. (in press). Short-term trials underestimate antidepressant withdrawal effects. *JAMA Psychiatry*.
 
+Horowitz, M., Hengartner, M. P., Plöderl, M., & Moncrieff, J. (in press). False reassurances based on inadequate data not helpful. *Psychological Medicine*.
+
 Moncrieff, J., Hobday, H., Sorensen, A., Read, J., Plöderl, M., Hengartner, M. P., Barkholt Kamp, C., Jakobsen, J. C., Juul, S., Davies, J., & Horowitz, M. (2025). Evidence on antidepressant withdrawal: a critique and re-analysis of a recent systematic review. *Psychological Medicine, 55*, e191, 1–17. <https://doi.org/10.1017/S0033291725100652>
 
 Moncrieff, J., Stansfield, J., Wood, L., & Plöderl, M. (2025). Uncertainty about lithium and suicide: a response to Nassir Ghaemi. *Journal of Psychopharmacology*. <https://doi.org/10.1177/02698811251346706>
@@ -25,6 +25,8 @@ Moncrieff, J., Stansfield, J., Wood, L., & Plöderl, M. (2025). Uncertainty abou
 Padberg, T., & Plöderl, M. (2025). Die Geschichte des medizinischen Modells der Depression - mit (fast) all ihren Vor- und Nachteilen. *Kontext, 56 (2), 125-137*. Mit einer Replik auf Prof. Norman, S. 143 - 150. <https://doi.org/10.13109/kont.2025.56.2.125>
 
 Plöderl, M. (2025). Multiple Errors in the Meta-Analysis by Zhang et al. (2025). *European Child & Adolescent Psychiatry*. <https://doi.org/10.1007/s00787-025-02717-6>
+
+Plöderl, M., Lyus, R., Horowitz, M., Moncrieff, J. (in press). The loss of efficacy of fluoxetine in pediatric depression: explanations, lack of acknowledgment, and implications for other treatments.. [Preprint](https://doi.org/10.31234/osf.io/wk4et_v1).
 
 Plöderl, M., & Moncrieff, J. (in press). Potentially problematic research practices in a study on ketamine for pediatric depression. *American Journal of Psychiatry*.
 
