@@ -30,6 +30,8 @@ Plöderl, M., Lyus, R., Horowitz, M., Moncrieff, J. (in press). The loss of effi
 
 Plöderl, M., & Moncrieff, J. (in press). Potentially problematic research practices in a study on ketamine for pediatric depression. *American Journal of Psychiatry*.
 
+Xu, C., Naudet, F., Kim, T., Hengartner, M. P., Horowith, M. A., Moncrieff, J., Pigott, E., Plöderl, M. (2025). Results of finite mixture models remain inconsistent. *Journal of Clinical Epidemiology*. <https://doi.org/10.1016/j.jclinepi.2025.112022>
+
 Xu, C., Naudet, F., Kim, T., Hengartner, M. P., Horowith, M. A., Kirsch, I., Moncrieff, J., Pigott, E., Plöderl, M. (2025). Large responses to antidepressants or methodological artifacts? A secondary analysies of STAR\*D, a single-arm, open-label, non- industry antidepressant trial. *Journal of Clinical Epidemiology*. <https://doi.org/10.1016/j.jclinepi.2025.111943>
 
 Amendola, S., Plöderl, M., & Hengartner, M. P. (2024). Suicide rates and prescriptions of antidepressants. Trends in the United States, 1999-2020,  by Sex and Race/Ethnicity. Crisis,\
