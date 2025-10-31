@@ -26,7 +26,7 @@ Padberg, T., & Plöderl, M. (2025). Die Geschichte des medizinischen Modells der
 
 Plöderl, M. (2025). Multiple Errors in the Meta-Analysis by Zhang et al. (2025). *European Child & Adolescent Psychiatry*. <https://doi.org/10.1007/s00787-025-02717-6>
 
-Plöderl, M., Lyus, R., Horowitz, M., Moncrieff, J. (in press). The loss of efficacy of fluoxetine in pediatric depression: explanations, lack of acknowledgment, and implications for other treatments.. [Preprint](https://doi.org/10.31234/osf.io/wk4et_v1).
+Plöderl, M., Lyus, R., Horowitz, M., Moncrieff, J. (2025). The loss of efficacy of fluoxetine in pediatric depression: explanations, lack of acknowledgment, and implications for other treatments. *Journal of Clinical Epidemiology*. <https://doi.org/10.1016/j.jclinepi.2025.112016> [Preprint](https://doi.org/10.31234/osf.io/wk4et_v1).
 
 Plöderl, M., & Moncrieff, J. (in press). Potentially problematic research practices in a study on ketamine for pediatric depression. *American Journal of Psychiatry*.
 
