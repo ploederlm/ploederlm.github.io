@@ -12,7 +12,9 @@ Plöderl, M. (2025, February 27). Concerning harm/benefit ratio of escitalopram 
 
 # Peer Reviewed Papers
 
-Cristea, I., Plöderl, M., & Naudet, F. (in press). Letter in reply to Janik A, Qiu X, Lane R, et al. Esketamine Monotherapy in Adults With Treatment-Resistant Depression: A Randomized Clinical Trial. *JAMA Psychiatry.* 2025. [10.1001/jamapsychiatry.2025.3242](https://jamanetwork.com/journals/jama/fullarticle/10.1001/jamapsychiatry.2025.3242?utm_campaign=articlePDF%26utm_medium=articlePDFlink%26utm_source=articlePDF%26utm_content=jamapsychiatry.2025.3242)
+Plöderl, M., & Moncrieff, J. (in press). Potentially problematic research practices in a study on ketamine for pediatric depression. *American Journal of Psychiatry*.
+
+Cristea, I., Plöderl, M., & Naudet, F. (2025). Letter in reply to Janik A, Qiu X, Lane R, et al. Esketamine Monotherapy in Adults With Treatment-Resistant Depression: A Randomized Clinical Trial. *JAMA Psychiatry.* 2025. [10.1001/jamapsychiatry.2025.3242](https://jamanetwork.com/journals/jama/fullarticle/10.1001/jamapsychiatry.2025.3242?utm_campaign=articlePDF%26utm_medium=articlePDFlink%26utm_source=articlePDF%26utm_content=jamapsychiatry.2025.3242)
 
 Hengartner, M. P., Plöderl, M., Read, J. (2025). Short-term trials underestimate antidepressant withdrawal effects. *JAMA Psychiatry*. <https://doi.org/10.1001/jamapsychiatry.2025.3166>
 
@@ -27,8 +29,6 @@ Padberg, T., & Plöderl, M. (2025). Die Geschichte des medizinischen Modells der
 Plöderl, M. (2025). Multiple Errors in the Meta-Analysis by Zhang et al. (2025). *European Child & Adolescent Psychiatry*. <https://doi.org/10.1007/s00787-025-02717-6>
 
 Plöderl, M., Lyus, R., Horowitz, M., Moncrieff, J. (2025). The loss of efficacy of fluoxetine in pediatric depression: explanations, lack of acknowledgment, and implications for other treatments. *Journal of Clinical Epidemiology*. <https://doi.org/10.1016/j.jclinepi.2025.112016> [Preprint](https://osf.io/preprints/psyarxiv/wk4et_v3)
-
-Plöderl, M., & Moncrieff, J. (in press). Potentially problematic research practices in a study on ketamine for pediatric depression. *American Journal of Psychiatry*.
 
 Xu, C., Naudet, F., Kim, T., Hengartner, M. P., Horowith, M. A., Moncrieff, J., Pigott, E., Plöderl, M. (2025). Results of finite mixture models remain inconsistent. *Journal of Clinical Epidemiology*. <https://doi.org/10.1016/j.jclinepi.2025.112022>
 
