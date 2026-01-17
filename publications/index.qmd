@@ -16,32 +16,34 @@ Xu, C., Kim, T. T., Kirsch, I., Plöderl, M., Amsterdam, J. D., Pigott, H. E. (2
 
 # Peer Reviewed Papers
 
+Plöderl, M., Lyus, R., Horowitz, M., Moncrieff, J. (in press). Reply to Boussageon at al.'s "Some additional comments on the evidence for fluoxetine in pediatric depression." *Journal of Clinical Epidemiology*.
+
+Plöderl, M., Lyus, R., Horowitz, M., Moncrieff, J. (2026). The loss of efficacy of fluoxetine in pediatric depression: explanations, lack of acknowledgment, and implications for other treatments. *Journal of Clinical Epidemiology, 189,* 112016. <https://doi.org/10.1016/j.jclinepi.2025.112016> [Preprint](https://osf.io/preprints/psyarxiv/wk4et_v3)
+
 Plöderl, M., & Moncrieff, J. (2026). Potentially problematic research practices in a study on ketamine for pediatric depression. *American Journal of Psychiatry. 183,* 82-83. <https://doi.org/10.1176/appi.ajp.20250497>
 
-Cristea, I., Plöderl, M., & Naudet, F. (2025). Letter in reply to Janik A, Qiu X, Lane R, et al. Esketamine Monotherapy in Adults With Treatment-Resistant Depression: A Randomized Clinical Trial. *JAMA Psychiatry.* 2025. [10.1001/jamapsychiatry.2025.3242](https://jamanetwork.com/journals/jama/fullarticle/10.1001/jamapsychiatry.2025.3242?utm_campaign=articlePDF%26utm_medium=articlePDFlink%26utm_source=articlePDF%26utm_content=jamapsychiatry.2025.3242)
+Xu, C., Naudet, F., Kim, T., Hengartner, M. P., Horowith, M. A., Moncrieff, J., Pigott, E., Plöderl, M. (2026). Results of finite mixture models remain inconsistent. Reply to Stone. *Journal of Clinical Epidemiology, 189,* 112022. <https://doi.org/10.1016/j.jclinepi.2025.112022>
 
-Hengartner, M. P., Plöderl, M., Read, J. (2025). Short-term trials underestimate antidepressant withdrawal effects. *JAMA Psychiatry*. <https://doi.org/10.1001/jamapsychiatry.2025.3166>
+Cristea, I., Plöderl, M., & Naudet, F. (2025). Letter in reply to Janik A, Qiu X, Lane R, et al. Esketamine Monotherapy in Adults With Treatment-Resistant Depression: A Randomized Clinical Trial. *JAMA Psychiatry, 83*, 103. [10.1001/jamapsychiatry.2025.3242](https://jamanetwork.com/journals/jama/fullarticle/10.1001/jamapsychiatry.2025.3242?utm_campaign=articlePDF%26utm_medium=articlePDFlink%26utm_source=articlePDF%26utm_content=jamapsychiatry.2025.3242)
 
-Horowitz, M., Hengartner, M. P., Plöderl, M., & Moncrieff, J. (2025). False reassurances based on inadequate data not helpful. *Psychological Medicine*. <https://doi.org/10.1017/S0033291725102092>
+Hengartner, M. P., Plöderl, M., Read, J. (2025). Short-term trials underestimate antidepressant withdrawal effects. *JAMA Psychiatry, 82,* 1255. <https://doi.org/10.1001/jamapsychiatry.2025.3166>
+
+Horowitz, M., Hengartner, M. P., Plöderl, M., & Moncrieff, J. (2025). False reassurances based on inadequate data not helpful. *Psychological Medicine, 55,* e309. <https://doi.org/10.1017/S0033291725102092>
 
 Moncrieff, J., Hobday, H., Sorensen, A., Read, J., Plöderl, M., Hengartner, M. P., Barkholt Kamp, C., Jakobsen, J. C., Juul, S., Davies, J., & Horowitz, M. (2025). Evidence on antidepressant withdrawal: a critique and re-analysis of a recent systematic review. *Psychological Medicine, 55*, e191, 1–17. <https://doi.org/10.1017/S0033291725100652>
 
-Moncrieff, J., Stansfield, J., Wood, L., & Plöderl, M. (2025). Uncertainty about lithium and suicide: a response to Nassir Ghaemi. *Journal of Psychopharmacology, 39,* 1201 - 1203. <https://doi.org/10.1177/02698811251346706>
+Moncrieff, J., Stansfield, J., Wood, L., & Plöderl, M. (2025). Uncertainty about lithium and suicide: a response to Nassir Ghaemi. *Journal of Psychopharmacology, 39,* 1201-1203. <https://doi.org/10.1177/02698811251346706>
 
 Padberg, T., & Plöderl, M. (2025). Die Geschichte des medizinischen Modells der Depression - mit (fast) all ihren Vor- und Nachteilen. *Kontext, 56 (2), 125-137*. Mit einer Replik auf Prof. Norman, S. 143 - 150. <https://doi.org/10.13109/kont.2025.56.2.125>
 
 Plöderl, M. (2025). Multiple Errors in the Meta-Analysis by Zhang et al. (2025). *European Child & Adolescent Psychiatry*. <https://doi.org/10.1007/s00787-025-02717-6>
 
-Plöderl, M., Lyus, R., Horowitz, M., Moncrieff, J. (2025). The loss of efficacy of fluoxetine in pediatric depression: explanations, lack of acknowledgment, and implications for other treatments. *Journal of Clinical Epidemiology*. <https://doi.org/10.1016/j.jclinepi.2025.112016> [Preprint](https://osf.io/preprints/psyarxiv/wk4et_v3)
+Xu, C., Naudet, F., Kim, T., Hengartner, M. P., Horowith, M. A., Kirsch, I., Moncrieff, J., Pigott, E., Plöderl, M. (2025). Large responses to antidepressants or methodological artifacts? A secondary analysies of STAR\*D, a single-arm, open-label, non- industry antidepressant trial. *Journal of Clinical Epidemiology, 187,* 111943. <https://doi.org/10.1016/j.jclinepi.2025.111943>
 
-Xu, C., Naudet, F., Kim, T., Hengartner, M. P., Horowith, M. A., Moncrieff, J., Pigott, E., Plöderl, M. (2025). Results of finite mixture models remain inconsistent. *Journal of Clinical Epidemiology*. <https://doi.org/10.1016/j.jclinepi.2025.112022>
-
-Xu, C., Naudet, F., Kim, T., Hengartner, M. P., Horowith, M. A., Kirsch, I., Moncrieff, J., Pigott, E., Plöderl, M. (2025). Large responses to antidepressants or methodological artifacts? A secondary analysies of STAR\*D, a single-arm, open-label, non- industry antidepressant trial. *Journal of Clinical Epidemiology*. <https://doi.org/10.1016/j.jclinepi.2025.111943>
-
-Amendola, S., Plöderl, M., & Hengartner, M. P. (2024). Suicide rates and prescriptions of antidepressants. Trends in the United States, 1999-2020,  by Sex and Race/Ethnicity. Crisis,\
+Amendola, S., Plöderl, M., & Hengartner, M. P. (2024). Suicide rates and prescriptions of antidepressants. Trends in the United States, 1999-2020,  by Sex and Race/Ethnicity. *Crisis, 45,* 225-233\
 <https://doi.org/10.1027/0227-5910/a000941>\
 \
-Fartacek, C., Fartacek, R., Schiepek, G. K., Sturm, J., Aichhorn, W., Plöderl, M. (2024). Dynamic association between suicidal ambivalence and suicide risk among individuals with a history of suicide attempts. *Suicide and Life-Threatening Behavior. <https://doi.org/10.1111/sltb.13096>*\
+Fartacek, C., Fartacek, R., Schiepek, G. K., Sturm, J., Aichhorn, W., Plöderl, M. (2024). Dynamic association between suicidal ambivalence and suicide risk among individuals with a history of suicide attempts. *Suicide and Life-Threatening Behavior, 54,* 860-868*. <https://doi.org/10.1111/sltb.13096>*\
 \
 Horowitz, M., Naudet, F., & Plöderl, M (2024). Correspondence to 'Esketamine Nasal Spray versus Quetiapine for Resistant Depression'. *New England Journal of Medicine 390:1,* <https://www.nejm.org/doi/10.1056/NEJMc2313230>*.*\
 \
