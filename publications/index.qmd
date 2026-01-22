@@ -16,7 +16,9 @@ Xu, C., Kim, T. T., Kirsch, I., Plöderl, M., Amsterdam, J. D., Pigott, H. E. (2
 
 # Peer Reviewed Papers
 
-Plöderl, M., Lyus, R., Horowitz, M., Moncrieff, J. (in press). Reply to Boussageon at al.'s "Some additional comments on the evidence for fluoxetine in pediatric depression." *Journal of Clinical Epidemiology*.
+Plöderl, M., Horowitz, M., Naudet, F., Warren, J., and Moncrieff, J. (subm.). Concerning harm/benefit ratio of escitalopram for pediatric generalized anxiety disorder. *A critical viewpoint on the evidence and approval process. International Journal of Risk and Safety in Medicine*.
+
+Plöderl, M., Lyus, R., Horowitz, M., Moncrieff, J. (2026). Reply to Boussageon at al.'s "Some additional comments on the evidence for fluoxetine in pediatric depression." *Journal of Clinical Epidemiology*. <https://doi.org/10.1016/j.jclinepi.2026.112138>
 
 Plöderl, M., Lyus, R., Horowitz, M., Moncrieff, J. (2026). The loss of efficacy of fluoxetine in pediatric depression: explanations, lack of acknowledgment, and implications for other treatments. *Journal of Clinical Epidemiology, 189,* 112016. <https://doi.org/10.1016/j.jclinepi.2025.112016> [Preprint](https://osf.io/preprints/psyarxiv/wk4et_v3)
 
