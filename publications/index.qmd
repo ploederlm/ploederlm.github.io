@@ -18,6 +18,8 @@ Xu, C., Kim, T. T., Kirsch, I., Plöderl, M., Amsterdam, J. D., Pigott, H. E. (2
 
 Plöderl, M., Horowitz, M., Naudet, F., Warren, J., and Moncrieff, J. (subm.). Concerning harm/benefit ratio of escitalopram for pediatric generalized anxiety disorder. *A critical viewpoint on the evidence and approval process. International Journal of Risk and Safety in Medicine*.
 
+Plöderl, M., Hussey, I., Ostacher, M. (in press). Trustworthiness issues in Yari-Renani and Zari’s (2025) study “Advancing depression treatment: a multi-center randomized controlled trial of dynamic interpersonal therapy versus CBT and pharmacotherapy on symptoms, sleep, and cognition” *Psychiatry Research*. Preprint: https://doi.org/10.31234/osf.io/tr42m_v1
+
 Plöderl, M., Lyus, R., Horowitz, M., Moncrieff, J. (2026). Reply to Boussageon at al.'s "Some additional comments on the evidence for fluoxetine in pediatric depression." *Journal of Clinical Epidemiology*. <https://doi.org/10.1016/j.jclinepi.2026.112138>
 
 Plöderl, M., Lyus, R., Horowitz, M., Moncrieff, J. (2026). The loss of efficacy of fluoxetine in pediatric depression: explanations, lack of acknowledgment, and implications for other treatments. *Journal of Clinical Epidemiology, 189,* 112016. <https://doi.org/10.1016/j.jclinepi.2025.112016> [Preprint](https://osf.io/preprints/psyarxiv/wk4et_v3)
@@ -242,8 +244,7 @@ Plöderl, M., Yazdi, K., Kralovec, K., & Fartacek, R. (2007). Geschlechtsrollenn
 \
 *Plöderl, M., Sauer, J., & Fartacek, R. (2006). Suizidalität und psychische Gesundheit von homo- und bisexuellen Männern und Frauen. Eine Metaanalyse internationaler Zufallsstichproben. *Verhaltenstherapie und Psychosoziale Praxis, 38,* 537-558. [Download](https://www.researchgate.net/profile/Martin-Ploederl/publication/250929243_Suizidalitat_und_psychische_Gesundheit_von_homo-_und_bisexuellen_Mannern_und_Frauen_Eine_Metaanalyse_internationaler_Zufallsstichproben/links/02e7e51ee8021e0b28000000/Suizidalitaet-und-psychische-Gesundheit-von-homo-und-bisexuellen-Maennern-und-Frauen-Eine-Metaanalyse-internationaler-Zufallsstichproben.pdf)
 
-Plöderl, M., & Fartacek, R. (2005). Suicidality and associated risk
-factors among lesbian, gay, and bisexual compared to heterosexual Austrian adults. *Suicide and Life-Threatening Behavior*, *35*(6), 661-670. <https://doi.org/10.1521/suli.2005.35.6.661>
+Plöderl, M., & Fartacek, R. (2005). Suicidality and associated risk factors among lesbian, gay, and bisexual compared to heterosexual Austrian adults. *Suicide and Life-Threatening Behavior*, *35*(6), 661-670. <https://doi.org/10.1521/suli.2005.35.6.661>
 
 Plöderl (2004). Homosexualität und Krisenintervention. Wissenswertes für den klinischen Alltag. *Suizidprophylaxe*, *117* , 4-10. [Download](http://www.suizidprophylaxe-online.de/pdf/01_heft117_2004.pdf)\
 \
