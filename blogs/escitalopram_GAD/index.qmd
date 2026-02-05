@@ -91,30 +91,82 @@ In conclusion, the FDA should re-consider the approval decision, given the evide
 
 # References
 
-Aboustate, N., Jureidini, J., Woodman, R., Le Noury, J., Klau, J., Abi-Jaoude, E., & Raven, M. (2025). Restoring TADS: RIAT reanalysis of the Treatment for Adolescents with Depression Study. *International Journal of Risk & Safety in Medicine*, *36*(4), 218–237. <https://doi.org/10.1177/09246479251337879>\
-Barrett, B., Brown, D., Mundt, M., & Brown, R. (2005). Sufficiently Important Difference: Expanding the Framework of Clinical Significance. *Medical Decision Making*, *25*(3), 250–261. <https://doi.org/10.1177/0272989X05276863>\
-Cervin, M., Kendall, P. C., Piacentini, J. C., Gosch, E. A., Wood, J. J., Schneider, S. C., Salloum, A., Birmaher, B., Guzick, A. G., Mataix-Cols, D., & Storch, E. A. (2025). Assessing reliable change, MCID, treatment response, and remission using the Pediatric Anxiety Rating Scale (PARS) in youth with anxiety disorders. *Journal of Anxiety Disorders*, *115*, 103070. <https://doi.org/10.1016/j.janxdis.2025.103070>\
-Food and Drug Administration. (2023, December 5). *Multi-disciplinary Review and Evaluation LEXAPRO (escitalopram) tablets / oral solution*. <https://www.fda.gov/media/170239/download?attachment>\
-Golder, S., Loke, Y. K., Wright, K., & Norman, G. (2016). Reporting of Adverse Events in Published and Unpublished Studies of Health Care Interventions: A Systematic Review. *PLOS Medicine*, *13*(9), e1002127. <https://doi.org/10.1371/journal.pmed.1002127>\
-Gøtzsche, P. C., & Healy, D. (2022). Restoring the two pivotal fluoxetine trials in children and adolescents with depression. *International Journal of Risk & Safety in Medicine*, *33*(4), 385–408. <https://doi.org/10.3233/JRS-210034>\
-Hansen, A. B., Hetlevik, Ø., Baste, V., Haukenes, I., Smith-Sivertsen, T., & Ruths, S. (2024). Variation in general practitioners’ follow-up of depressed patients starting antidepressant medication: A register-based cohort study. *Family Practice*, cmae063. <https://doi.org/10.1093/fampra/cmae063>\
-Healy, D., & Mangin, D. (2024). Post-SSRI sexual dysfunction: Barriers to quantifying incidence and prevalence. *Epidemiology and Psychiatric Sciences*, *33*, e40. <https://doi.org/10.1017/S2045796024000441>\
-Hengartner, M. P. (2021). *Evidence-biased antidepressant prescription: Overmedicalisation, flawed research, and conflicts of interest*. Springer.\
-Hengartner, M. P., & Plöderl, M. (2018). Statistically significant antidepressant-placebo differences on subjective symptom-rating scales do not prove that antidepressants work: Effect size and method bias matter! *Frontiers in Psychiatry*, *9*. <https://doi.org/10.3389/fpsyt.2018.00517>\
-Hengartner, M. P., & Plöderl, M. (2022). Estimates of the minimal important difference to evaluate the clinical significance of antidepressants in the acute treatment of moderate-to-severe depression. *BMJ Evidence-Based Medicine*, *27*(2), 69–73. <https://doi.org/10.1136/bmjebm-2020-111600>\
-Hetrick, S. E., McKenzie, J. E., Bailey, A. P., Sharma, V., Moller, C. I., Badcock, P. B., Cox, G. R., Merry, S. N., & Meader, N. (2021). New generation antidepressants for depression in children and adolescents: A network meta-analysis. *Cochrane Database of Systematic Reviews*, *2021*(5). <https://doi.org/10.1002/14651858.CD013674.pub2>\
-Högberg, G. N., Antonuccio, D. O., & Healy, D. (2015). Suicidal risk from TADS study was higher than it first appeared. *The International Journal of Risk & Safety in Medicine*, *27*(2), 85–91. <https://doi.org/10.3233/JRS-150645>\
-Le Noury, J., Nardo, J. M., Healy, D., Jureidini, J., Raven, M., Tufanaru, C., & Abi-Jaoude, E. (2015). Restoring Study 329: Efficacy and harms of paroxetine and imipramine in treatment of major depression in adolescence. *BMJ*, h4320. <https://doi.org/10.1136/bmj.h4320>\
-Naudet, F., Pellen, C., Fodor, L. A., Gastaldon, C., Barbui, C., Turner, E. H., Le Pabic, E., & Cristea, I. A. (2025). Efficacy and safety of esketamine for “treatment resistant depression”: Registered report for a systematic review with an individual patient data meta-analysis of randomized, double-blind, placebo-controlled trials. *BMC Medicine*, *23*(1), 677. <https://doi.org/10.1186/s12916-025-04435-x>\
-Pirani, Y., Delgado-Ron, J. A., Marinho, P., Gupta, A., Grey, E., Watt, S., MacKinnon, K. R., & Salway, T. (2024). Frequency of self-reported persistent post-treatment genital hypoesthesia among past antidepressant users: A cross-sectional survey of sexual and gender minority youth in Canada and the US. *Social Psychiatry and Psychiatric Epidemiology*. <https://doi.org/10.1007/s00127-024-02769-0>\
-Plöderl, M. (2025). *Concerning harm/benefit ratio of escitalopram for pediatric generalized anxiety disorder*. Open Science Framework. <https://doi.org/10.31219/osf.io/tv823_v1>\
-Plöderl, M., Horowitz, M. A., & Hengartner, M. P. (2023). Re: “A Multicenter Double-Blind, Placebo-Controlled Trial of Escitalopram in Children and Adolescents with Generalized Anxiety Disorder” by Strawn et al.—Concerning Harm–Benefit Ratio in a Recent Trial About Escitalopram for Generalized Anxiety Disorder. *Journal of Child and Adolescent Psychopharmacology*, *33*(7), 295–296. <https://doi.org/10.1089/cap.2023.0029>\
-Plöderl, M., Horowitz, M., Naudet, F., Warren, J., & Moncrieff, J. (2026). *Concerning harm/benefit ratio of escitalopram for pediatric generalized anxiety disorder. A critical viewpoint on the evidence and approval process*. PsyArXiv. <https://doi.org/10.31234/osf.io/6fqk4_v1>\
-Plöderl, M., Lyus, R., Horowitz, M. A., & Moncrieff, J. (2026). The loss of efficacy of fluoxetine in pediatric depression: Explanations, lack of acknowledgment, and implications for other treatments. *Journal of Clinical Epidemiology*, *189*, 112016. <https://doi.org/10.1016/j.jclinepi.2025.112016>\
-Serretti, A., & Chiesa, A. (2009). Treatment-Emergent Sexual Dysfunction Related to Antidepressants: A Meta-Analysis. *Journal of Clinical Psychopharmacology*, *29*(3), 259–266. <https://doi.org/10.1097/JCP.0b013e3181a5233f>\
-Slee, A., Nazareth, I., Bondaronek, P., Liu, Y., Cheng, Z., & Freemantle, N. (2019). Pharmacological treatments for generalised anxiety disorder: A systematic review and network meta-analysis. *The Lancet*, *393*(10173), 768–777. <https://doi.org/10.1016/S0140-6736(18)31793-8>\
-Stone, M. B., Laughren, T. P., Jones, M. L., Levenson, M., Holland, P. C., Hughes, A., Hammad, T. A., Temple, R., & Rochester, G. (2009). Risk of suicidality in clinical trials of antidepressants in adults: Analysis of proprietary data submitted to US Food and Drug Administration. *BMJ*, *339*, 1–10.\
-Strawn, J. R., & Mills, J. A. (2024). Response to Plöderl et al. re: “A Multicenter Double-Blind, Placebo-Controlled Trial of Escitalopram in Children and Adolescents with Generalized Anxiety Disorder.” *Journal of Child and Adolescent Psychopharmacology*, *34*(2), 106–107. <https://doi.org/10.1089/cap.2023.0089>\
-Strawn, J. R., Mills, J. A., Schroeder, H., Mossman, S. A., Varney, S. T., Ramsey, L. B., Poweleit, E. A., Desta, Z., Cecil, K., & DelBello, M. P. (2020). Escitalopram in Adolescents With Generalized Anxiety Disorder: A Double-Blind, Randomized, Placebo-Controlled Study. *The Journal of Clinical Psychiatry*, *81*(5). <https://doi.org/10.4088/JCP.20m13396>\
-Strawn, J. R., Moldauer, L., Hahn, R. D., Wise, A., Bertzos, K., Eisenberg, B., Greenberg, E., Liu, C., Gopalkrishnan, M., McVoy, M., & Knutson, J. A. (2023). A Multicenter Double-Blind, Placebo-Controlled Trial of Escitalopram in Children and Adolescents with Generalized Anxiety Disorder. *Journal of Child and Adolescent Psychopharmacology*, *33*(3), 91–100. <https://doi.org/10.1089/cap.2023.0004>\
+Aboustate, N., Jureidini, J., Woodman, R., Le Noury, J., Klau, J., Abi-Jaoude, E., & Raven, M. (2025). Restoring TADS: RIAT reanalysis of the Treatment for Adolescents with Depression Study. *International Journal of Risk & Safety in Medicine*, *36*(4), 218–237. <https://doi.org/10.1177/09246479251337879>
+
+\
+Barrett, B., Brown, D., Mundt, M., & Brown, R. (2005). Sufficiently Important Difference: Expanding the Framework of Clinical Significance. *Medical Decision Making*, *25*(3), 250–261. <https://doi.org/10.1177/0272989X05276863>
+
+\
+Cervin, M., Kendall, P. C., Piacentini, J. C., Gosch, E. A., Wood, J. J., Schneider, S. C., Salloum, A., Birmaher, B., Guzick, A. G., Mataix-Cols, D., & Storch, E. A. (2025). Assessing reliable change, MCID, treatment response, and remission using the Pediatric Anxiety Rating Scale (PARS) in youth with anxiety disorders. *Journal of Anxiety Disorders*, *115*, 103070. <https://doi.org/10.1016/j.janxdis.2025.103070>
+
+\
+Food and Drug Administration. (2023, December 5). *Multi-disciplinary Review and Evaluation LEXAPRO (escitalopram) tablets / oral solution*. <https://www.fda.gov/media/170239/download?attachment>
+
+\
+Golder, S., Loke, Y. K., Wright, K., & Norman, G. (2016). Reporting of Adverse Events in Published and Unpublished Studies of Health Care Interventions: A Systematic Review. *PLOS Medicine*, *13*(9), e1002127. <https://doi.org/10.1371/journal.pmed.1002127>
+
+\
+Gøtzsche, P. C., & Healy, D. (2022). Restoring the two pivotal fluoxetine trials in children and adolescents with depression. *International Journal of Risk & Safety in Medicine*, *33*(4), 385–408. <https://doi.org/10.3233/JRS-210034>
+
+\
+Hansen, A. B., Hetlevik, Ø., Baste, V., Haukenes, I., Smith-Sivertsen, T., & Ruths, S. (2024). Variation in general practitioners’ follow-up of depressed patients starting antidepressant medication: A register-based cohort study. *Family Practice*, cmae063. <https://doi.org/10.1093/fampra/cmae063>
+
+\
+Healy, D., & Mangin, D. (2024). Post-SSRI sexual dysfunction: Barriers to quantifying incidence and prevalence. *Epidemiology and Psychiatric Sciences*, *33*, e40. <https://doi.org/10.1017/S2045796024000441>
+
+\
+Hengartner, M. P. (2021). *Evidence-biased antidepressant prescription: Overmedicalisation, flawed research, and conflicts of interest*. Springer.
+
+\
+Hengartner, M. P., & Plöderl, M. (2018). Statistically significant antidepressant-placebo differences on subjective symptom-rating scales do not prove that antidepressants work: Effect size and method bias matter! *Frontiers in Psychiatry*, *9*. <https://doi.org/10.3389/fpsyt.2018.00517>
+
+\
+Hengartner, M. P., & Plöderl, M. (2022). Estimates of the minimal important difference to evaluate the clinical significance of antidepressants in the acute treatment of moderate-to-severe depression. *BMJ Evidence-Based Medicine*, *27*(2), 69–73. <https://doi.org/10.1136/bmjebm-2020-111600>
+
+\
+Hetrick, S. E., McKenzie, J. E., Bailey, A. P., Sharma, V., Moller, C. I., Badcock, P. B., Cox, G. R., Merry, S. N., & Meader, N. (2021). New generation antidepressants for depression in children and adolescents: A network meta-analysis. *Cochrane Database of Systematic Reviews*, *2021*(5). <https://doi.org/10.1002/14651858.CD013674.pub2>
+
+\
+Högberg, G. N., Antonuccio, D. O., & Healy, D. (2015). Suicidal risk from TADS study was higher than it first appeared. *The International Journal of Risk & Safety in Medicine*, *27*(2), 85–91. <https://doi.org/10.3233/JRS-150645>
+
+\
+Le Noury, J., Nardo, J. M., Healy, D., Jureidini, J., Raven, M., Tufanaru, C., & Abi-Jaoude, E. (2015). Restoring Study 329: Efficacy and harms of paroxetine and imipramine in treatment of major depression in adolescence. *BMJ*, h4320. <https://doi.org/10.1136/bmj.h4320>
+
+\
+Naudet, F., Pellen, C., Fodor, L. A., Gastaldon, C., Barbui, C., Turner, E. H., Le Pabic, E., & Cristea, I. A. (2025). Efficacy and safety of esketamine for “treatment resistant depression”: Registered report for a systematic review with an individual patient data meta-analysis of randomized, double-blind, placebo-controlled trials. *BMC Medicine*, *23*(1), 677. <https://doi.org/10.1186/s12916-025-04435-x>
+
+\
+Pirani, Y., Delgado-Ron, J. A., Marinho, P., Gupta, A., Grey, E., Watt, S., MacKinnon, K. R., & Salway, T. (2024). Frequency of self-reported persistent post-treatment genital hypoesthesia among past antidepressant users: A cross-sectional survey of sexual and gender minority youth in Canada and the US. *Social Psychiatry and Psychiatric Epidemiology*. <https://doi.org/10.1007/s00127-024-02769-0>
+
+\
+Plöderl, M. (2025). *Concerning harm/benefit ratio of escitalopram for pediatric generalized anxiety disorder*. Open Science Framework. <https://doi.org/10.31219/osf.io/tv823_v1>
+
+\
+Plöderl, M., Horowitz, M. A., & Hengartner, M. P. (2023). Re: “A Multicenter Double-Blind, Placebo-Controlled Trial of Escitalopram in Children and Adolescents with Generalized Anxiety Disorder” by Strawn et al.—Concerning Harm–Benefit Ratio in a Recent Trial About Escitalopram for Generalized Anxiety Disorder. *Journal of Child and Adolescent Psychopharmacology*, *33*(7), 295–296. <https://doi.org/10.1089/cap.2023.0029>
+
+\
+Plöderl, M., Horowitz, M., Naudet, F., Warren, J., & Moncrieff, J. (2026). *Concerning harm/benefit ratio of escitalopram for pediatric generalized anxiety disorder. A critical viewpoint on the evidence and approval process*. PsyArXiv. <https://doi.org/10.31234/osf.io/6fqk4_v1>
+
+\
+Plöderl, M., Lyus, R., Horowitz, M. A., & Moncrieff, J. (2026). The loss of efficacy of fluoxetine in pediatric depression: Explanations, lack of acknowledgment, and implications for other treatments. *Journal of Clinical Epidemiology*, *189*, 112016. <https://doi.org/10.1016/j.jclinepi.2025.112016>
+
+\
+Serretti, A., & Chiesa, A. (2009). Treatment-Emergent Sexual Dysfunction Related to Antidepressants: A Meta-Analysis. *Journal of Clinical Psychopharmacology*, *29*(3), 259–266. <https://doi.org/10.1097/JCP.0b013e3181a5233f>
+
+\
+Slee, A., Nazareth, I., Bondaronek, P., Liu, Y., Cheng, Z., & Freemantle, N. (2019). Pharmacological treatments for generalised anxiety disorder: A systematic review and network meta-analysis. *The Lancet*, *393*(10173), 768–777. <https://doi.org/10.1016/S0140-6736(18)31793-8>
+
+\
+Stone, M. B., Laughren, T. P., Jones, M. L., Levenson, M., Holland, P. C., Hughes, A., Hammad, T. A., Temple, R., & Rochester, G. (2009). Risk of suicidality in clinical trials of antidepressants in adults: Analysis of proprietary data submitted to US Food and Drug Administration. *BMJ*, *339*, 1–10.
+
+\
+Strawn, J. R., & Mills, J. A. (2024). Response to Plöderl et al. re: “A Multicenter Double-Blind, Placebo-Controlled Trial of Escitalopram in Children and Adolescents with Generalized Anxiety Disorder.” *Journal of Child and Adolescent Psychopharmacology*, *34*(2), 106–107. <https://doi.org/10.1089/cap.2023.0089>
+
+\
+Strawn, J. R., Mills, J. A., Schroeder, H., Mossman, S. A., Varney, S. T., Ramsey, L. B., Poweleit, E. A., Desta, Z., Cecil, K., & DelBello, M. P. (2020). Escitalopram in Adolescents With Generalized Anxiety Disorder: A Double-Blind, Randomized, Placebo-Controlled Study. *The Journal of Clinical Psychiatry*, *81*(5). <https://doi.org/10.4088/JCP.20m13396>
+
+\
+Strawn, J. R., Moldauer, L., Hahn, R. D., Wise, A., Bertzos, K., Eisenberg, B., Greenberg, E., Liu, C., Gopalkrishnan, M., McVoy, M., & Knutson, J. A. (2023). A Multicenter Double-Blind, Placebo-Controlled Trial of Escitalopram in Children and Adolescents with Generalized Anxiety Disorder. *Journal of Child and Adolescent Psychopharmacology*, *33*(3), 91–100. <https://doi.org/10.1089/cap.2023.0004>
+
+\
 Strawn, J. R., & Walkup, J. T. (2025). Fact Versus Fear: Antidepressants in Children and Adolescents. *Journal of Clinical Psychopharmacology*, *45*(5), 413–417. <https://doi.org/10.1097/JCP.0000000000002054>
