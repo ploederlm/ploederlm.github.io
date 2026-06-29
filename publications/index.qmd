@@ -6,7 +6,7 @@ title: "Publications"
 
 Lyus, R., Naudet, F., van Valkenhoef, G., & Plöderl, M. (2025, September 10). A Re-Appraisal of three network meta-analyses to explain the discrepancy in findings for the efficacy of fluoxetine for the treatment of depression in children and adolescents. <https://doi.org/10.1101/2025.09.07.25334757>
 
-Plöderl, M., Lyus, R., Naudet, F. (2016, July 27). Can fluoxetine’s diminished efficacy in pediatric depression be explained by study sites, baseline severity, age, and psychological interventions? A secondary exploratory meta-regression. <https://doi.org/10.31234/osf.io/qsdgp_v1>
+Plöderl, M., Lyus, R., Naudet, F. (2026, July 27). Can fluoxetine’s diminished efficacy in pediatric depression be explained by study sites, baseline severity, age, and psychological interventions? A secondary exploratory meta-regression. <https://doi.org/10.31234/osf.io/qsdgp_v1>
 
 Plöderl, M., Cooper, R., Walker, T., Shah, V., Horowitz, M., Volkmann, C., Moncrieff, J. (2025, August 21). Effects of ketamine and esketamine on death, suicidal behaviour, and suicidal ideation in psychiatric disorders: A systematic review and meta-analysis. <http://medrxiv.org/lookup/doi/10.1101/2025.08.19.25333796>
 
