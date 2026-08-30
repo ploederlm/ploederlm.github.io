@@ -16,6 +16,8 @@ Xu, C., Kim, T. T., Kirsch, I., Plöderl, M., Amsterdam, J. D., Pigott, H. E. (2
 
 # Peer Reviewed Papers
 
+Lyus, R., Plöderl, M., Naudet, F. (subm.). The efficacy of fluoxetine for depression in children and adolescents: A commentary on the four meta-analyses that inform clinical guidelines
+
 Bruckbauer-Schwed, M., Roth, L. H. O., Plöderl, M., Tomašević, A., Keglevic, M., Laireiter A.-R. (2026). Dynamic Exploratory Graph Analysis (dynEGA) of affect and self-harm urge in non-suicidal self-injury (NSSI): Three illustrative case studies. *Psychiatry Research* Case Reports, <https://doi.org/10.1016/j.psycr.2026.100342>
 
 Lyus, R., Naudet, F., van Valkenhoef, G., & Plöderl, M. (in press). A Re-Appraisal of three network meta-analyses to explain the discrepancy in findings for the efficacy of fluoxetine for the treatment of depression in children and adolescents. *Cochrane Evidence Synthesis and Methods*. [Preprint](https://doi.org/10.1101/2025.09.07.25334757){.uri}
