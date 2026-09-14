@@ -80,11 +80,15 @@ The biases associated with expectations, unblinding, and method biases mentioned
 
 A meta-analysis and meta-regression of the fluoxetine trials shows that drop-out rates changed over time (Fig. 5). In earlier trials, fewer patients dropped out in the drug arms compared to the placebo arms but this trend is not evident in more recent trials. This change is highlighted by a significant effect for time in a meta-regression analysis.
 
-![](figures/fig5.png)**Figure 5.** Drop-out rates in the fluoxetine-arms versus the placebo arms over time. Risk-ratios smaller than one indicate lower drop-out rates in the drug arm compared to the placebo arm. The line denotes the regression line. Data and code are available upon request.
+![](figures/fig5.png)
+
+**Figure 5.** Drop-out rates in the fluoxetine-arms versus the placebo arms over time. Risk-ratios smaller than one indicate lower drop-out rates in the drug arm compared to the placebo arm. The line denotes the regression line. Data and code are available upon request.
 
 Separating the analysis by trials where fluoxetine was the experimental drug (compared only to placebo) or the comparator drug (alongside a more novel drug and placebo) in a subgroup analysis is also revealing (Fig. 6). It is evident that, when fluoxetine was the experimental drug, there were fewer drop outs in the drug arms compared to placebo arms (OR approximately 0.7). When fluoxetine was the comparator drug, drop out rates were similar for fluoxetine (OR ca. 1.0). Therefore, in line with results for efficacy, analyses of drop-out rates suggest that fluoxetine is no longer more acceptable than placebo in recent trials. Furthermore, these results support the idea that older trials may have been influenced by expectancy effects and lack of blinding.
 
-![](figures/fig6.png)**Figure 6.** Drop-out rates in trials where fluoxetine was the experimental drug (only compared with placebo) or used as comparator drug alongside a novel drug and placebo.
+![](figures/fig6.png)
+
+**Figure 6.** Drop-out rates in trials where fluoxetine was the experimental drug (only compared with placebo) or used as comparator drug alongside a novel drug and placebo.
 
 # Implications for other commonly used antidepressants
 
