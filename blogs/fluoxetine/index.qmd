@@ -99,7 +99,7 @@ Fluoxetine is by far the most extensively studied drug for pediatric depression,
 **Table 1.** Characteristics of clinical trials and meta-analytic results.
 
 | Drug/Study | Registered | Sponsored | Compared with | Outcome | Positive trial? | high ROB? |
-|:----------|:----------|:----------|:----------|:----------|:----------|:----------|
+|:---|:---|:---|:---|:---|:---|:---|
 | **Sertraline** |  |  |  |  |  |  |
 | Wagner 2003^a^ | No | Yes | Placebo only | -0.25 (-0.51 to 0.01) | no | yes^c,d^ |
 | Wagner 2003^a^ | No | Yes | Placebo only | -0.20 (-0.45 to 0.05) | no | yes^c,d^ |
@@ -123,7 +123,7 @@ Despite the potential for the mentioned biases to impact these trials, drop-out 
 **Table 2.** Drop-out rates in the trials for sertraline, citalopram and escitalopram
 
 |   | Drop-out |   |   |   |   |   |
-|:----------|-----------|:----------|-----------|:----------|-----------|:----------|
+|:---|----|:---|----|:---|----|:---|
 |  | Adverse Events |  | Lack of efficacy |  | Overall |  |
 | Drug/Study | Drug | Placebo | Drug | Placebo | Drug | Placebo |
 | **Sertraline** |  |  |  |  |  |  |
