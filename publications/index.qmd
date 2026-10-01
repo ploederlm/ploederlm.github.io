@@ -22,7 +22,7 @@ Lyus, R., Plöderl, M., Naudet, F. (subm.). The efficacy of fluoxetine for depre
 
 Bruckbauer-Schwed, M., Roth, L. H. O., Plöderl, M., Tomašević, A., Keglevic, M., Laireiter A.-R. (2026). Dynamic Exploratory Graph Analysis (dynEGA) of affect and self-harm urge in non-suicidal self-injury (NSSI): Three illustrative case studies. *Psychiatry Research* Case Reports, <https://doi.org/10.1016/j.psycr.2026.100342>
 
-Lyus, R., Naudet, F., van Valkenhoef, G., & Plöderl, M. (in press). A Re-Appraisal of three network meta-analyses to explain the discrepancy in findings for the efficacy of fluoxetine for the treatment of depression in children and adolescents. *Cochrane Evidence Synthesis and Methods*. [Preprint](https://doi.org/10.1101/2025.09.07.25334757){.uri}
+Lyus, R., Naudet, F., van Valkenhoef, G., & Plöderl, M. (2026). A Re-Appraisal of three network meta-analyses to explain the discrepancy in findings for the efficacy of fluoxetine for the treatment of depression in children and adolescents. *Cochrane Evidence Synthesis and Methods*. e70108. <https://doi.org/10.1002/cesm.70108> [Preprint](https://doi.org/10.1101/2025.09.07.25334757){.uri}
 
 Plöderl, M., Horowitz, M., Naudet, F., Warren, J., and Moncrieff, J. (2026). Concerning the harm-benefit ratio of escitalopram for pediatric generalized anxiety disorder. *A critical viewpoint on the evidence and approval process. International Journal of Risk and Safety in Medicine*. <https://doi.org/10.1177/09246479261456063> [Preprint](https://doi.org/10.31234/osf.io/6fqk4_v3)
 
@@ -103,7 +103,7 @@ Plöderl, M., & Naudet, F. (2023). Severe methodological problems in a recent re
 \
 Plöderl, M., Westerlund, J., Hökby, S., Hadlaczky, G., & Hengartner, M.P. (2023). Increased suicide risk among younger women in winter during full moon in northern Europe. An artifact or a novel finding? *Molecular Psychiatry 28,* 901–907*.* <https://doi.org/10.1038/s41380-022-01823-0>
 
-## 2022 
+## 2022
 
 Hengartner, M. P. & Plöderl, M. (2022). Estimates of the minimal important difference to evaluate the clinical significance of antidepressants in the acute treatment of moderate-to-severe depression. *BMJ idence-Based Medicine, 27*, 69-73 . <https://doi.org/10.1136/bmjebm-2020-111600>. [Download](https://www.researchgate.net/profile/Martin-Ploederl/publication/349391137_Estimates_of_the_minimal_important_difference_to_evaluate_the_clinical_significance_of_antidepressants_in_the_acute_treatment_of_moderate-to-severe_depression/links/62330baf069a350c8b944ede/Estimates-of-the-minimal-important-difference-to-evaluate-the-clinical-significance-of-antidepressants-in-the-acute-treatment-of-moderate-to-severe-depression.pdf)\
 \
@@ -217,20 +217,18 @@ Plöderl, M. (2016). Out in der Schule? Bullying und Suizidrisiko bei LGBTI Juge
 \
 Fartacek, C., Schiepek, G., Kunrath, S., Fartacek, R., & Plöderl, M. (2016). Real-time monitoring of nonlinear suicidal dynamics: methodology and a demonstrative case report. *Frontiers in Psychology*. <http://dx.doi.org/10.3389/fpsyg.2016.00130>
 
-##  2015
+## 2015
 
 Plöderl, M., Tremblay, P. (2015). Mental health of sexual minorities. A systematic review. *International Review of Psychiatry, 27,* 367-385. <http://dx.doi.org/10.3109/09540261.2015.1083949> [Download accepted manuscript](https://www.researchgate.net/profile/Martin-Ploederl/publication/283687456_Mental_health_of_sexual_minorities_A_systematic_review/links/564593b608ae451880a8e608/Mental-health-of-sexual-minorities-A-systematic-review.pdf)
 
 Wang, J., Plöderl, M., Häusermann, M., & Weiss, M. G. (2015). Understanding suicide attempts among gay men from their self-perceived causes. *Journal of Nervous and Mental Disease, 203*, 499-506. <http://dx.doi.org/10.1097/NMD.0000000000000319> Download
 
-*\*
-Plöderl, M., Fartacek, C., Kunrath, S., Pichler, E.M., Fartacek, R., Datz, C., & Niederseer, D. (2015). Nothing like Christmas: Suicides during Christmas and other holidays in Austria. *European Journal of Public Health, 25, 410-413. <http://dx.doi.org/10.1093/eurpub/cku169>*
+*\* Plöderl, M., Fartacek, C., Kunrath, S., Pichler, E.M., Fartacek, R., Datz, C., & Niederseer, D. (2015). Nothing like Christmas: Suicides during Christmas and other holidays in Austria.* European Journal of Public Health, 25, 410-413. <http://dx.doi.org/10.1093/eurpub/cku169>\*
 
 ## 2014
 
 Fartacek, C., Kralovec, K., Pichler, E-M., Fartacek, R., Plöderl, M. (2014). Notfallpläne zur Rückfallprävention von suizidalem Verhalten. *Suizidprophylaxe, 157, 68-72. Download\
-\*
-Kralovec, K., Fartacek, C., Fartacek, R., Plöderl, M. (2014). Religion and suicide risk in lesbian, gay, and bisexual Austrians*.* *Journal of Religion and Health, 53*, 413-423*.* <https://dx.doi.org/10.1007/s10943-012-9645-2>. Download accepted manuscript\
+\* Kralovec, K., Fartacek, C., Fartacek, R., Plöderl, M. (2014). Religion and suicide risk in lesbian, gay, and bisexual Austrians*.\* *Journal of Religion and Health, 53*, 413-423*.* <https://dx.doi.org/10.1007/s10943-012-9645-2>. Download accepted manuscript\
 \
 Niederseer, D., Mörtl, H., Liebensteiner, M. C., Egger, A.,Thaler, C. W., Plöderl, M., ... & Raschner, C. (2014). General fatigue and joint position sense in male elite handball players. *Deutsche Zeitschrift für Sportmedizin, 65*, 149-153. Download\
 \
@@ -272,7 +270,7 @@ Plöderl, M., Kralovec, K., & Fartacek, R. (2010). The relation between sexual o
 \
 Plöderl, M., Kralovec, K., Fartacek, C., & Fartacek, R. (2010). Aggressivität, Impulsivität und die Entscheidung zu einer Suizidmethode. *Suizidprophylaxe, 140*, 3-7. Download
 
-##   up to 2009
+## up to 2009
 
 Kralovec, K., Plöderl, M., Aistleitner, U., Fartacek, C., & Fartacek, R. (2009). Sind Nahtoderlebnisse nach Suizidversuchen bedeutsam für die weitere Suizidrisikoeinschätzung? *Neuropsychiatrie, 23*, 184-186. Download\
 \
