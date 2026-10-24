@@ -4,8 +4,6 @@ title: "Publications"
 
 # Preprints
 
-Plöderl, M., Lyus, R., Naudet, F. (2026, July 15). Letter in response to Shakibaei et al. “Fluoxetine Use for Very Young Children with Major Depression Disorder: A Pilot Randomized Clinical Trial,” Adv Biomed Res. 2026 Mar;15(1). <https://doi.org/10.31234/osf.io/8wgy4_v1>
-
 Plöderl, M., Cooper, R., Walker, T., Shah, V., Horowitz, M., Volkmann, C., Moncrieff, J. (2025, August 21). Effects of ketamine and esketamine on death, suicidal behaviour, and suicidal ideation in psychiatric disorders: A systematic review and meta-analysis. <http://medrxiv.org/lookup/doi/10.1101/2025.08.19.25333796>
 
 Plöderl, M. (2025, February 27). Concerning harm/benefit ratio of escitalopram for pediatric generalized anxiety disorder. <https://doi.org/10.31219/osf.io/tv823_v1>
@@ -33,6 +31,8 @@ Plöderl, M., Lyus, R., Horowitz, M., Moncrieff, J. (2026). Reply to Boussageon 
 Plöderl, M., Lyus, R., Horowitz, M., Moncrieff, J. (2026). The loss of efficacy of fluoxetine in pediatric depression: explanations, lack of acknowledgment, and implications for other treatments. *Journal of Clinical Epidemiology, 189,* 112016. <https://doi.org/10.1016/j.jclinepi.2025.112016>
 
 Plöderl, M., Lyus, R., Naudet, F. (2026). Can fluoxetine’s diminished efficacy in pediatric depression be explained by study sites, baseline severity, age, and psychological interventions? A secondary exploratory meta-regression. *Journal of Psychiatric research*. <https://doi.org/10.1016/j.jpsychires.2026.08.018> [Preprint](https://doi.org/10.31234/osf.io/qsdgp_v1){.uri}
+
+Plöderl, M., Lyus, R., Naudet, F. (2026). Letter in response to Shakibaei et al. “Fluoxetine Use for Very Young Children with Major Depression Disorder: A Pilot Randomized Clinical Trial,” Adv Biomed Res. 2026. <https://doi.org/10.4103/abr.abr_300_26> [Preprint](https://doi.org/10.31234/osf.io/8wgy4_v1)
 
 Plöderl, M., & Moncrieff, J. (2026). Potentially problematic research practices in a study on ketamine for pediatric depression. *American Journal of Psychiatry. 183,* 82-83. <https://doi.org/10.1176/appi.ajp.20250497>
 
@@ -134,10 +134,9 @@ Hengartner, M. P., Plöderl, M., Amendola, S., Kindler, S., Bschor, T., & Kamins
 Kirchner, S., Till, B., Plöderl, M., & Niederkrotenthaler, T. (2021). It Gets Better Videos for Suicide Prevention in LGBTIQ+ Adolescents. *Crisis, 42 (2)*, 92-99. <https://doi.org/10.1027/0227-5910/a000691>
 
 Plöderl, M. (2021). Suicide over the course of the day, week, and life. *Psychiatria Danubina, 33, 438-445.* <https://doi.org/10.24869/psyd.2021.438>. [Download](https://www.researchgate.net/profile/Martin-Ploederl/publication/356296579_Suicide_risk_over_the_course_of_the_day_week_and_life/links/626d76cbd49fe200e1c99c68/Suicide-risk-over-the-course-of-the-day-week-and-life.pdf).*\
-\*
-Plöderl, M., & Hengartner, M.P. (2021). Moon and suicide: a true effect or a false-positive finding? *Molecular Psychiatry, 26*, 4564-4565.  <https://doi.org/10.1038/s41380-020-00942-w>. [Download](https://drive.google.com/file/d/1_krUD5N949l0SvJDmU3dJR1Pai-KHUGt/view?usp=drive_link).\
+\* Plöderl, M., & Hengartner, M.P. (2021). Moon and suicide: a true effect or a false-positive finding?* Molecular Psychiatry, 26*, 4564-4565.  <https://doi.org/10.1038/s41380-020-00942-w>. [Download](https://drive.google.com/file/d/1_krUD5N949l0SvJDmU3dJR1Pai-KHUGt/view?usp=drive_link).\
 \
-Plöderl, M. & Padberg, T. (2021). Antidepressiva. Wirksam und gut verträglich? *Psychotherapie im Dialog, 22 (3),* 44-48. <https://doi.org/10.1055/a-1215-1638.> [PDF](https://drive.google.com/file/d/1vlA9YQSadDN_SzowIee08EjR4oGo4B5t/view?usp=sharing).\
+Plöderl, M. & Padberg, T. (2021). Antidepressiva. Wirksam und gut verträglich?* Psychotherapie im Dialog, 22 (3),\* 44-48. <https://doi.org/10.1055/a-1215-1638.> [PDF](https://drive.google.com/file/d/1vlA9YQSadDN_SzowIee08EjR4oGo4B5t/view?usp=sharing).\
 [Langfassung](https://drive.google.com/file/d/1exCBJw_oqIoFMzSGlPwo0ngihG4d2xoy/view?usp=drive_link)
 
 Plöderl, M. & Volkmann, C. (2021). Esketamin. Ein berechtigter Hype in der Suizidprävention? *Suizidprophylaxe, 48,* 10-14. [Download](https://drive.google.com/file/d/1Uh7zLp7yrlG71Rsecsq53_aC819WWcMp/view?usp=sharing)\
@@ -177,7 +176,7 @@ Hoyer, J., Mestel, R., Boos, A., Bördlein, C., Oude-Aost, J., Plöderl, M. & Wa
 
 Plöderl, M. (2019). Antidepressiva in der Suizidprävention. Eine kritische Bestandsaufnahme. *Suizidprophylaxe, 46*, 53-64. [Download](https://drive.google.com/file/d/1ZF9tBmicwdv9j5CWcLq85uGfGvd1V1Rc/view?usp=drive_link). 
 
-Plöderl, M., & Hengartner, M. P. (2019). Guidelines for the pharmacological acute treatment of major depression: Conflicts with current evidence as demonstrated with the German S3 Guidelines. BMC Psychiatry 19(1):265.  <https://doi.org/10.1186/s12888-019-2230-4.> \
+Plöderl, M., & Hengartner, M. P. (2019). Guidelines for the pharmacological acute treatment of major depression: Conflicts with current evidence as demonstrated with the German S3 Guidelines. BMC Psychiatry 19(1):265.  <https://doi.org/10.1186/s12888-019-2230-4.>\
 For a project description, manuscript drafts, additional material, and rejections/reviews in German psychiatric journals, see [osf.io/4kh2a](https://osf.io/4kh2a/overview)
 
 Plöderl, M., & Hengartner, M. P. (2019). Antidepressiva wirken! Oder doch nicht? *Skeptiker 2/2019,* 72-78*.* [Erhältlich hier.](https://www.gwup.org/produkt/skeptiker-2-2019/) [Download](https://drive.google.com/file/d/1vVszSlvjDb06RK3fGXTVJ74VyVKkaVMJ/view?usp=drive_link). [Antwort auf Gegenargumente](https://drive.google.com/file/d/1HNIflFSwjlYHWAwi9oUpHrKfDkm5YO6Z/view?usp=sharing)
@@ -230,8 +229,7 @@ Plöderl, M., Fartacek, C., Kunrath, S., Pichler, E.M., Fartacek, R., Datz, C., 
 
 Fartacek, C., Kralovec, K., Pichler, E-M., Fartacek, R., Plöderl, M. (2014). Notfallpläne zur Rückfallprävention von suizidalem Verhalten. *Suizidprophylaxe, 157,* 68-72. [Download](https://drive.google.com/file/d/1QtmnotXXcOz50RF8xQo9FxfILRu4U4vF/view?usp=drive_link).
 
-*\*
-Kralovec, K., Fartacek, C., Fartacek, R., Plöderl, M. (2014). Religion and suicide risk in lesbian, gay, and bisexual Austrians. *Journal of Religion and Health, 53*, 413-423*.* <https://dx.doi.org/10.1007/s10943-012-9645-2>. [Download](https://drive.google.com/file/d/1YS3K-CTqIdSLKjnn2iNSx1dnZB6EuV8a/view?usp=sharing) accepted manuscript\
+*\* Kralovec, K., Fartacek, C., Fartacek, R., Plöderl, M. (2014). Religion and suicide risk in lesbian, gay, and bisexual Austrians.* Journal of Religion and Health, 53*, 413-423*.\* <https://dx.doi.org/10.1007/s10943-012-9645-2>. [Download](https://drive.google.com/file/d/1YS3K-CTqIdSLKjnn2iNSx1dnZB6EuV8a/view?usp=sharing) accepted manuscript\
 \
 Niederseer, D., Mörtl, H., Liebensteiner, M. C., Egger, A.,Thaler, C. W., Plöderl, M., ... & Raschner, C. (2014). General fatigue and joint position sense in male elite handball players. *Deutsche Zeitschrift für Sportmedizin, 65*, 149-153. [Download](https://www.researchgate.net/profile/David-Niederseer/publication/263279970_General_Fatigue_and_Joint_Position_Sense_in_Male_Elite_Handball_Players/links/0a85e53a760954b387000000/General-Fatigue-and-Joint-Position-Sense-in-Male-Elite-Handball-Players.pdf).\
 \
@@ -245,7 +243,7 @@ Plöderl. M., Tremblay, P. (2014). Complementing remarks to Skerrett (2014) 'Sui
 
 Neunhäuserer, D., Sturm, J., Baumgartlinger, M., Niederseer, D., Ledl-Kurkowski, E., Steidle, E., Plöderl, M., Fartacek, C., Kralovec, K., Fartacek, R., Niebauer, J. (2013). Hiking in suicidal patients: Neutral effects on markers of suicidality. *American Journal of Medicine, 126*, 927-930. <http://dx.doi.org/10.1016/j.amjmed.2013.05.008>. [Download](https://d1wqtxts1xzle7.cloudfront.net/72907830/j.amjmed.2013.05.00820211017-19243-1glvque-libre.pdf?1634462272=&response-content-disposition=inline%3B+filename%3DHiking_in_Suicidal_Patients_Neutral_Effe.pdf&Expires=1791359746&Signature=SAIYlKI0c2xLAGOoIfRgYHVw4KnsA0SnssAgNQ2rGPlUTtOpiP0ViWzOOgSSTSDoet01i-CF8k9OQEiI-kuGP0RsiDQX7aIC0IVqq7wHnOddcATIq997SfltvEe8PYLhMASzGZeNq0wSW0RBlGRJ0OgIBXs5-TMog7g0najpAr484NtycOlFSc~b9raa9x95TNcgulNcuNcUvmBavdfb-UrPJS996d5FhBHpVk6wf9ssgFLJfzdN~-uW1LNnTTzBlq3HeMfyoGtGz55mpejCin1iH6zU7iJqlSgeV9KBRaxa1EbFUJuDlPEtcouAsXM6u3iUHTJGdI9DCkzXL0LNpQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA).\
 \
-Niederseer, D., Thaler, C. W., Egger, A., Niederseer, M. C.,Plöderl, M., & Niebauer, J. (2013). Watching soccer is not associated with an increase in cardiac events. *International Journal of Cardiology*. <https://doi.org/10.1016/j.ijcard.2013.10.066>. [Download](https://drive.google.com/file/d/1U3UON_S0o7cLrEWfUTKBCFaGShJj11J0/view?usp=drive_link). \
+Niederseer, D., Thaler, C. W., Egger, A., Niederseer, M. C.,Plöderl, M., & Niebauer, J. (2013). Watching soccer is not associated with an increase in cardiac events. *International Journal of Cardiology*. <https://doi.org/10.1016/j.ijcard.2013.10.066>. [Download](https://drive.google.com/file/d/1U3UON_S0o7cLrEWfUTKBCFaGShJj11J0/view?usp=drive_link).\
 \
 Plöderl, M., Wagenmakers, E. J., Tremblay, P., Ramsay, R., Kralovec, K., Fartacek, C., Fartacek, R. (2013). Suicide risk and sexual orientation. A critical review. *Archives of Sexual Behavior, 42,* 715-727. <https://doi.org/10.1007/s10508-012-0056-y.> [Download](https://drive.google.com/file/d/1UT8b6qUaI3CvdMNSfwn0XkbWPjQArDZs/view?usp=drive_link).\
 \
@@ -267,7 +265,7 @@ Fartacek, C., Plöderl, M., Kralovec, C., & Fartacek, R. (2010). Aggression und 
 \
 Plöderl, M., Fartacek, H., & Fartacek, R. (2010). Lebenswert. Ein schulisches Suizidpräventionsprogramm. *Suizidprophylaxe, 143,* 148-154. [Download](https://drive.google.com/file/d/1zn_nQ8jJOOkZRRaXkK7nnWLN2v_4TtJV/view?usp=sharing).\
 \
-Plöderl, M., Faistauer, G., & Fartacek, R. (2010). The contribution of schools to the feeling of acceptance and the risk of suicide attempts among Austrian gay and bisexual males. *Journal of Homosexuality*, 57, 819-841. <https://doi.org/10.1080/00918369.2010.493401>. [Download](https://drive.google.com/file/d/1Nz9tkPUbYz3b_oeoXIALH6GNjeyvP6ba/view?usp=drive_link) accepted manuscript. \
+Plöderl, M., Faistauer, G., & Fartacek, R. (2010). The contribution of schools to the feeling of acceptance and the risk of suicide attempts among Austrian gay and bisexual males. *Journal of Homosexuality*, 57, 819-841. <https://doi.org/10.1080/00918369.2010.493401>. [Download](https://drive.google.com/file/d/1Nz9tkPUbYz3b_oeoXIALH6GNjeyvP6ba/view?usp=drive_link) accepted manuscript.\
 \
 Plöderl, M., Kralovec, K., & Fartacek, R. (2010). The relation between sexual orientation and suicide attempts in Austria. *Archives of Sexual Behavior, 39* , 1403-1414*.* <https://doi.org/10.1007/s10508-009-9597-0>. [Download](https://drive.google.com/file/d/1mhot9Q49h1-kRkRVmmcGAPD7mjv9jE5z/view?usp=drive_link) accepted manuscript\
 \
